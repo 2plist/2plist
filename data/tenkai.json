@@ -2,7 +2,7 @@
     "id": "64100176",
     "name": "Tenkai \ud83d\udcf7 \ud83c\udf1f ",
     "author": "HidekiX",
-    "verifier": "HidekiX",
+    "verifier": "Motor8",
     "desc": "thank you for playing",
     "percentToQualify": "68",
     "handcam": true,
@@ -11,9 +11,6 @@
     "password": "235236",
     "records": [
         {
-            "percent": "100",
-            "link": "https://youtu.be/AM2KHSZkjcc",
-            "user": "Motor8"
         }
     ]
 }
