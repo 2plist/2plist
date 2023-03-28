@@ -1,1 +1,19 @@
-
+{
+    "id": "10485394",
+    "name": "\ud83c\udf1f 1 Comme le vent",
+    "author": "Ieena",
+    "verifier": "Motor8",
+    "desc": "Shortest Extra Long! Have fun with 3x speed!xp Minor Etude Series",
+    "percentToQualify": "57",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/F59D3iUcdYk",
+    "password": "",
+    "records": [
+        {
+			"percent": "100",
+			"link": "https://youtu.be/F59D3iUcdYk",
+            "user": "Motor8"
+		}
+    ]
+}
