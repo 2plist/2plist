@@ -1,0 +1,34 @@
+{
+    "id": "69866281",
+    "name": "Arcane16",
+    "author": "LCynox",
+    "verifier": "Batle",
+    "desc": "verified with TanTrum1337 in 3200 attempts. Toilet paper",
+    "percentToQualify": "74",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/5ebS5vqy-bk",
+    "password": "idk man",
+    "records": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/5ebS5vqy-bk",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/YHcVuzim6VY",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/2_3g6kllWlA",
+					"user": "Zest"
+				}, 
+				{
+					"percent": "100",
+					"link": "https://youtu.be/JG7u4js8efM",
+					"user": "Motor8"
+				}
+    ]
+}
