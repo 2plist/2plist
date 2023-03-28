@@ -1,0 +1,42 @@
+{
+			"id": "56916170",
+			"name": "Bang Gang",
+            "author": "Danzmen",
+			"desc": "2-player Slap Squad spinoff. Verified in Npesta's house.",
+			"percentToQualify": "59",
+			"handcam": true,
+			"hacked": false,
+			"verificationVid": "https://youtu.be/8CkIYWN89fM",
+			"records": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/8CkIYWN89fM",
+					"user": "Grey749"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/_Q7Q5BiIPUg",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/DAR42s36gXY",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/fbwVhIXBb2A",
+					"user": "random"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/04Br8T-kwWQ",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/bUYtvGymU9A",
+					"user": "Batle"
+				}
+			]
+}
