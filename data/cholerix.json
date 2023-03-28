@@ -1,1 +1,34 @@
-
+{
+    "id": "40902405",
+    "name": "shaggy23",
+    "author": "HidekiX",
+    "verifier": "Allium",
+    "desc": "My Final Megacollab, Extreme Demon, this was made in 2.0 update :) Verified by GK Allium (Check his YT). Video on my Channel ;)",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/wkdYwF13QNA",
+    "password": "idk man",
+    "records": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/wkdYwF13QNA",
+					"user": "Allium"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/1OnVI5IBaiQ",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/4Jp33aoDkjE",
+					"user": "Charlotte"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/tAvskVGrrqA?t=5",
+					"user": "Motor8"
+				}
+    ]
+}
