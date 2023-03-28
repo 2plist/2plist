@@ -1,0 +1,27 @@
+{
+    "id": "71692057",
+    "name": "Based Gang",
+    "author": "Alphirox",
+    "desc": "2-Player Based Extreme Demon Verified by GiggsRH and Koopazu. Layout by Meekah and Arts by ItsZPlayer.",
+    "percentToQualify": "54",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/wu-t-yzCLgc",
+    "vids": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/wu-t-yzCLgc",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/JCMeu1EUQqE",
+            "user": "random"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/gFH_vqv2IS8",
+            "user": "Batle"
+        }
+    ]
+}
