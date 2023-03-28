@@ -1,0 +1,44 @@
+{
+    "id": "26157409",
+    "name": "Elite Z Rebirth \ud83d\udcf7",
+    "author": "KrMaL",
+    "verifier": "KrMaL",
+    "desc": "Updated version of elite z by PLAY 4075365, redesigned by AirSwipe and me.",
+    "percentToQualify": "64",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/B1GKgUNT8Q0",
+    "password": "idk man",
+    "records": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/B1GKgUNT8Q0",
+					"user": "KrmaL"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/sOOXefqfwnU",
+					"user": "Charlotte"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/KJu0KjNnQEs",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/8MMA3w-aOqc",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/hTOSztZdDdM",
+					"user": "HurricaneL"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/XLDs5eX1SSk",
+					"user": "vitamin227"
+				}
+    ]
+}
