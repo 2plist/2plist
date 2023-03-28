@@ -1,0 +1,39 @@
+{
+    "id": "38142097",
+    "name": "Colorful Corruption",
+    "author": "albinomaster",
+    "verifier": "Batle",
+    "desc": "A little Based Gang spinoff verified by Dnuoz and NathanYAY during their meetup. The layout was also made by the two, go check them out :)",
+    "percentToQualify": "60",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/KsU0X2cII5Q",
+    "password": "555555",
+    "records": [
+        {
+					"percent": "100",
+					"link": "https://youtu.be/KsU0X2cII5Q",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/QR6meut9wic",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/_Mmk4jmK92Y",
+					"user": "CooperSuper"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/iSYjFXI8bUU",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/x0skSoJB0jg",
+					"user": "Motor8"
+				}
+    ]
+}
