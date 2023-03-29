@@ -1,1 +1,25 @@
-
+{
+    "id": "43001774",
+    "name": "ApocalypseAfterParty \ud83d\udcf7",
+    "author": "WHErwin",
+    "verifier": "WHErwin",
+    "desc": "What would you do if you were the last person on earth? Dedicated to Edicts.",
+    "percentToQualify": "100",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/Q-kZ2swRSAI",
+    "password": "idk man",
+    "records": [
+        				{
+					"percent": "100",
+					"link": "https://youtu.be/KN-j71q4IvQ",
+					"user": "Zest"
+				},
+				
+				{
+					"percent": "100",
+					"link": "https://youtu.be/tAvskVGrrqA?t=79",
+					"user": "Motor8"
+				}
+    ]
+}
