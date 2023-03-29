@@ -1,0 +1,39 @@
+{
+    "id": "23298409",
+    "name": "Duelo Maestro \ud83d\udcf7",
+    "author": "Nacho21",
+    "verifier": "SrGuillester",
+    "desc": "El duelo de tus 2 manos o de 2 verdaderos maestros. El modo de 2 jugadores esta roto, asi que reinicien el nivel de vez en cuando...",
+    "percentToQualify": "100",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/73pRiolPwTA",
+    "password": "idk man",
+    "records": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/6Tz8bbqRSQ0",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/-XIydOT9-0E",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/w7LQx1LsYvE					",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/MzSv1wwRLQc",
+					"user": "Emilian"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/WD5R6fwDm_c",
+					"user": "ipickyourpocket"
+				}
+    ]
+}
