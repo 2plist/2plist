@@ -1,0 +1,39 @@
+{
+    "id": "64405105",
+    "name": "HEX MASTER",
+    "author": "Custi",
+    "verifier": "NoobLookingPro",
+    "desc": "This was supposed to be way longer level but decided to cut it down to +1min, inspired by Araneo by Darwin. Good luck with the duals ;)",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/vZr9-BJrzKg",
+    "password": "idk man",
+    "records": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/aALXXNLjWM0",
+					"user": "PrankOrigami"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/mIO1FdYVHcY",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/JzsaK_WodEA",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/nS3dlpvWBAw",
+					"user": "ATF"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/LV0318OWLKw?t=379",
+					"user": "Motor8"
+				}
+    ]
+}
