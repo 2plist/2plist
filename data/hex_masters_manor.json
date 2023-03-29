@@ -1,1 +1,24 @@
-
+{
+    "id": "86284711",
+    "name": "Hex Masters Manor",
+    "author": "Custi",
+    "verifier": "Custi",
+    "desc": "HEX MASTER Remake. Good Luck!",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/KbAUc_6fCPI",
+    "password": "idk man",
+    "records": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/InMXtxo1EU4?t=123",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/6DjE-S0S9W8",
+					"user": "ATF"
+				}
+    ]
+}
