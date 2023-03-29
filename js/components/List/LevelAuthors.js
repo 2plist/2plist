@@ -3,6 +3,10 @@ export default {
         author: {
             type: String,
             required: true,
+        },
+        verifier: {
+            type: String,
+            required: true,
         }
     },
     template: `
@@ -11,10 +15,10 @@ export default {
             <p class="type-body">
                 <span>{{ author }}</span>
             </p>
-            <!--<div class="type-title-sm">Verifier</div>
+            <div class="type-title-sm">Verifier</div>
             <p class="type-body">
                 <span>{{ verifier }}</span>
-            </p>-->
+            </p>
         </div>
     `
 };
