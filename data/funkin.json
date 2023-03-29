@@ -1,0 +1,29 @@
+{
+    "id": "68177479",
+    "name": "Funkin",
+    "author": "Bluskys",
+    "verifier": "Zest",
+    "desc": "Friday Night Funkin inspired two-player level! Beat it with a friend or by yourself! Art by TorchicZK & PhantomArcade",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/vG9eQleOWKI",
+    "password": "idk man",
+    "records": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/ZOUAj4zNd78",
+					"user": "Batle"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/OQkGX-9pUbo",
+					"user": "Charlotte"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/gmjdYSNGL1A?t=6",
+					"user": "Motor8"
+				}
+    ]
+}
