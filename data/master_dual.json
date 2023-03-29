@@ -1,1 +1,29 @@
-a
+{
+    "id": "57359114",
+    "name": "Master Dual \ud83d\udcf7",
+    "author": "Zylenox",
+    "verifier": "Zylenox",
+    "desc": "both teacher",
+    "percentToQualify": "100",
+    "handcam": true,
+    "hacked": false,
+    "verificationVid": "https://youtu.be/oME6XOYpWTM",
+    "password": "idk man",
+    "records": [
+				{
+					"percent": "100",
+					"link": "https://youtu.be/VdxNUm_v-yk",
+					"user": "Zest"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/VMhNmyhGros?t=421",
+					"user": "Motor8"
+				},
+				{
+					"percent": "100",
+					"link": "https://youtu.be/JgzM_HtdwXA",
+					"user": "ATF"
+				}
+    ]
+}
