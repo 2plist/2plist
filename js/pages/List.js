@@ -39,7 +39,7 @@ export default {
             </div>
             <div class="level-container">
                 <div class="level" v-if="level">
-                    <h1>{{ level.name }} <img src="assets/unrated.svg" alt="unrated" v-if="level.unrated" style="height:3rem;display:inline;margin-left:1rem;"></h1>
+                    <h1>{{ level.name }} <img src="assets/unrated.svg" alt="unrated" v-if="level.unrated" style="height:1rem;display:inline;"></h1>
                     <LevelAuthors :author="level.author" :verifier="level.verifier"></LevelAuthors>
                     <h5 style="font-weight: normal;text-transform: none">{{ level.desc }}</h5>
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
