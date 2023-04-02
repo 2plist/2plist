@@ -30,7 +30,7 @@ export default {
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
                             <button @click="selected = i">
-                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}<img src="assets/unrated.svg" alt="unrated" v-if="level?.unrated" style="height:1rem;display:inline;"></span>
+                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}<img src="assets/unrated.svg" alt="unrated" v-if="level?.unrated" style="height: 1.1rem; display: inline;margin-left:0.5rem"></span>
                                 
                             </button>
                         </td>
