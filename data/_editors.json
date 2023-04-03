@@ -6,17 +6,22 @@
     },
     {
         "role": "admin",
-        "name": "gdbatle1",
-        "link": "#"
+        "name": "ATF",
+        "link": "https://www.youtube.com/channel/UCwBU8ulosh1IyNHoaLWdrwg"
     },
     {
-        "role": "helper",
-        "name": "Charlotte",
+        "role": "admin",
+        "name": "gdbatle1",
         "link": "#"
     },
     {
         "role": "admin",
         "name": "Motor8",
+        "link": "#"
+    },
+    {
+        "role": "helper",
+        "name": "Charlotte",
         "link": "#"
     },
     {
@@ -28,11 +33,6 @@
         "role": "helper",
         "name": "||Zest||",
         "link": "#"
-    },
-    {
-        "role": "admin",
-        "name": "ATF",
-        "link": "https://www.youtube.com/channel/UCwBU8ulosh1IyNHoaLWdrwg"
     },
     {
         "role": "dev",
