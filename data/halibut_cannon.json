@@ -11,24 +11,24 @@
     "verificationVid": "https://youtu.be/3exqGWo9LNw",
     "vids": [
         {
-					"percent": "100",
-					"link": "ttps://youtu.be/CYD2qPacHxM",
-					"user": "NoobLookingPro"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/LtsbnNy7gy0",
-					"user": "Zest"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/xOsN50bi0cw",
-					"user": "ATF"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/gmjdYSNGL1A?t=234",
-					"user": "Motor8"
-				}
+            "percent": "100",
+            "link": "ttps://youtu.be/CYD2qPacHxM",
+            "user": "NoobLookingPro"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/LtsbnNy7gy0",
+            "user": "Zest"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/xOsN50bi0cw",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/gmjdYSNGL1A?t=234",
+            "user": "Motor8"
+        }
     ]
 }
