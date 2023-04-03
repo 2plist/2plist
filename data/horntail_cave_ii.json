@@ -5,9 +5,9 @@
     "verifier": "KeiAs",
     "desc": "Horntail is back..Can you beat it again?",
     "percentToQualify": "100",
-    "handcam": true,
+    "handcam": "0",
     "hacked": false,
-    "unrated": true,
+    "unrated": false,
     "verificationVid": "https://youtu.be/uhxCvoQNJEw",
     "password": "",
     "records": [
