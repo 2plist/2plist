@@ -5,7 +5,7 @@
     "verifier": "Motor8",
     "desc": "You can play 2P mode?",
     "percentToQualify": "100",
-    "handcam": "0",
+    "handcam": 0,
     "hacked": false,
     "unrated": true,
     "verificationVid": "https://youtu.be/InMXtxo1EU4?t=79",
