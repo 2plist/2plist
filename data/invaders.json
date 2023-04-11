@@ -5,7 +5,7 @@
     "verifier": "Zest",
     "desc": "LOL",
     "percentToQualify": "100",
-    "handcam": "0",
+    "handcam": 0,
     "hacked": false,
     "unrated": false,
     "verificationVid": "https://youtu.be/AyPtqCmjKiw",
