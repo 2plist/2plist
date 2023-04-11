@@ -5,7 +5,7 @@
     "verifier": "davphla",
     "desc": "For steam users. Spacebar controls player 1, up arrow key controls player 2. Meant to be played by 1",
     "percentToQualify": "100",
-    "handcam": "0",
+    "handcam": 0,
     "hacked": false,
     "unrated": false,
     "verificationVid": "https://youtu.be/R6BpbOt914E",
