@@ -11,5 +11,20 @@
     "verificationVid": "https://youtu.be/4Byhuz4Prxk",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/4Ml55fWBjZ4",
+            "user": "Zest"
+        }, 
+        {
+            "percent": "100",
+            "link": "https://youtu.be/LV0318OWLKw?t=4",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/ahNiK99HCOc",
+            "user": "Gummyworm41"
+        }
     ]
 }
