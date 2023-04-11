@@ -5,7 +5,7 @@
     "verifier": "Zest",
     "desc": "Friday Night Funkin inspired two-player level! Beat it with a friend or by yourself! Art by TorchicZK & PhantomArcade",
     "percentToQualify": "100",
-    "handcam": false,
+    "handcam": 1,
     "hacked": false,
 	"unrated": false,
     "verificationVid": "https://youtu.be/vG9eQleOWKI",
