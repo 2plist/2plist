@@ -5,7 +5,7 @@
     "verifier": "Zylenox",
     "desc": "both teacher",
     "percentToQualify": "100",
-    "handcam": true,
+    "handcam": 1,
     "hacked": false,
 	"unrated": false,
     "verificationVid": "https://youtu.be/oME6XOYpWTM",
