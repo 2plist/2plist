@@ -5,7 +5,7 @@
     "verifier": "WHErwin",
     "desc": "What would you do if you were the last person on earth? Dedicated to Edicts.",
     "percentToQualify": "100",
-    "handcam": true,
+    "handcam": 1,
     "hacked": false,
     "unrated": false,
     "verificationVid": "https://youtu.be/Q-kZ2swRSAI",
