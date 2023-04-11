@@ -11,5 +11,45 @@
     "verificationVid": "https://youtu.be/zrLZnv3iX7Q",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/gXapzUc3JT4",
+            "user": "Zest"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/LV0318OWLKw?t=198",
+            "user": "Motor8"
+        }, 
+        {
+            "percent": "100",
+            "link": "https://youtu.be/nnqZBmPL77c",
+            "user": "Gummyworm41"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/wd-9xqeXWV8",
+            "user": "landopantz"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/RlvoPj6jjvs",
+            "user": "ipickyourpocket"
+        }, 
+        {
+            "percent": "100",
+            "link": "https://youtu.be/6TcVaTjiELs",
+            "user": "SmileBullet"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.bilibili.com/video/BV1Zv411J7Kj",
+            "user": "iv3plane"
+        }, 
+        {
+            "percent": "100",
+            "link": "https://youtu.be/0frBoEVOqmw",
+            "user": "SpicyDrinkBottle"
+        }
     ]
 }
