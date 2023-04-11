@@ -5,7 +5,7 @@
     "verifier": "SrGuillester",
     "desc": "El duelo de tus 2 manos o de 2 verdaderos maestros. El modo de 2 jugadores esta roto, asi que reinicien el nivel de vez en cuando...",
     "percentToQualify": "100",
-    "handcam": true,
+    "handcam": 1,
     "hacked": false,
 	"unrated": false,
     "verificationVid": "https://youtu.be/73pRiolPwTA",
