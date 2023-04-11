@@ -5,7 +5,7 @@
     "verifier": "Golden",
     "desc": "Finally new level after several months, this time a little harder, try not to crash. Verified by Golden.",
     "percentToQualify": "100",
-    "handcam": "0",
+    "handcam": 0,
     "hacked": false,
     "unrated": false,
     "verificationVid": "https://youtu.be/RvPQ_IExx5A",
