@@ -11,5 +11,25 @@
     "verificationVid": "https://youtu.be/JpSsyDF5q5A",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/-HDtXLOzAb8?t=271",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Jo4nzjv6PxE",
+            "user": "Graydient"
+        }, 
+        {
+            "percent": "100",
+            "link": "https://youtu.be/O1mL-cFN-aU",
+            "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/T79dVL7hXLI",
+            "user": "landopantz"
+        }
     ]
 }
