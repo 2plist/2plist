@@ -5,7 +5,7 @@
     "verifier": "KeiAs",
     "desc": "20K Objects! Can you beat it?",
     "percentToQualify": "100",
-    "handcam": "0",
+    "handcam": 0,
     "hacked": false,
     "unrated": false,
     "verificationVid": "https://youtu.be/zrLZnv3iX7Q",
