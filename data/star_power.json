@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/gin3alnAz9M",
+            "user": "Magmeta"
+        }, 
+        {
+            "percent": "100",
             "link": "https://youtu.be/-HDtXLOzAb8?t=271",
             "user": "Motor8"
         },
@@ -30,6 +35,11 @@
             "percent": "100",
             "link": "https://youtu.be/T79dVL7hXLI",
             "user": "landopantz"
+        },
+        {
+            "percent": "100",
+            "link": "https://medal.tv/clips/WXPWYGIso5Ldn/vpk46SZfd?invite=cr-MSxtU0osMTcyNTgyNDAzLA",
+            "user": "cowfarts"
         }
     ]
 }
