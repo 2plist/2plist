@@ -11,30 +11,55 @@
     "verificationVid": "https://youtu.be/73pRiolPwTA",
     "password": "idk man",
     "records": [
-				{
-					"percent": "100",
-					"link": "https://youtu.be/6Tz8bbqRSQ0",
-					"user": "Zest"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/-XIydOT9-0E",
-					"user": "Batle"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/w7LQx1LsYvE",
-					"user": "Motor8"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/MzSv1wwRLQc",
-					"user": "Emilian"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/WD5R6fwDm_c",
-					"user": "ipickyourpocket"
-				}
+        {
+            "percent": "100",
+            "link": "https://youtu.be/6Tz8bbqRSQ0",
+            "user": "Zest"
+        },
+        {
+            "percent": "100",
+            "link": "ant",
+            "user": "https://youtu.be/dWAG7tLw8H0"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/-XIydOT9-0E",
+            "user": "Batle"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/w7LQx1LsYvE",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/-HRXvqby-H8",
+            "user": "Magmeta"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/MzSv1wwRLQc",
+            "user": "Emilian"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/JbPo_q9WAgI",
+            "user": "GabeLucario"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/WD5R6fwDm_c",
+            "user": "ipickyourpocket"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/PmBtKu1N0E8",
+            "user": "vitamin227"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/7va59D7LvmA",
+            "user": "Partyt"
+        }
     ]
 }
