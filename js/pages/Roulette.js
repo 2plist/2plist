@@ -191,8 +191,8 @@ export default {
                 list.push(...fullListMapped.slice(15, 50));
             }
 
-            // random 100 levels
-            this.levels = shuffle(list).slice(0, 100);
+            // random 50 levels
+            this.levels = shuffle(list).slice(0, 50);
             this.showRemaining = false;
             this.givenUp = false;
             this.progression = [];
