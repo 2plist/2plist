@@ -85,7 +85,7 @@ export async function fetchLeaderboard() {
                 progressed: [],
             };
             const { completed, progressed } = scoreMap[user];
-            if (record.percent === 100) {
+            if (record.percent == 100) {
                 completed.push({
                     rank: rank + 1,
                     level: level.name,
