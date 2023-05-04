@@ -18,11 +18,11 @@ export default {
                 <form class="options">
                     <div class="check">
                         <input type="checkbox" id="main" value="Main List" v-model="useMainList">
-                        <label for="main">Main List</label>
+                        <label for="main">Main list</label>
                     </div>
                     <div class="check">
                         <input type="checkbox" id="extended" value="Extended List" v-model="useExtendedList">
-                        <label for="extended">Extended List</label>
+                        <label for="extended">Extended list</label>
                     </div>
                     <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
                 </form>
@@ -39,6 +39,7 @@ export default {
             </div>
             <section class="levels-container">
                 <div class="levels">
+                <p> {{}}
                     <template v-if="levels.length > 0">
                         <!-- Completed Levels -->
                         <div class="level" v-for="(level, i) in levels.slice(0, progression.length)">
@@ -183,16 +184,15 @@ export default {
                 rank: i + 1,
                 id: lvl.id,
                 name: lvl.name,
-                video: lvl.verification,
+                video: lvl.verificationVid,
             }));
             const list = [];
             if (this.useMainList) list.push(...fullListMapped.slice(0, 15));
             if (this.useExtendedList) {
                 list.push(...fullListMapped.slice(15));
             }
-            // there is no legacy list yet, for now
 
-            // at most 100 random levels
+            // random 100 levels
             this.levels = shuffle(list).slice(0, 100);
             this.showRemaining = false;
             this.givenUp = false;
