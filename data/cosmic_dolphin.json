@@ -11,25 +11,30 @@
     "verificationVid": "https://youtu.be/VW_N4hZ-hrE",
     "password": "001313",
     "records": [
-				{
-					"percent": "100",
-					"link": "https://youtu.be/OWp1nCZJenI",
-					"user": "ATF"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/hz8w4qferPM",
-					"user": "Zest"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/gmjdYSNGL1A?t=146",
-					"user": "Motor8"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/cLPAAjmP69E",
-					"user": "Graydient"
-				}
+        {
+            "percent": "100",
+            "link": "https://youtu.be/OWp1nCZJenI",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/hz8w4qferPM",
+            "user": "Zest"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/gmjdYSNGL1A?t=146",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/cLPAAjmP69E",
+            "user": "Graydient"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/AXRE1MPLr6Y",
+            "user": "Alza"
+        }
     ]
 }
