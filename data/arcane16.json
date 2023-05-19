@@ -11,20 +11,20 @@
     "verificationVid": "https://youtu.be/5ebS5vqy-bk",
     "password": "484877",
     "records": [
-				{
-					"percent": "100",
-					"link": "https://youtu.be/YHcVuzim6VY",
-					"user": "ATF"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/2_3g6kllWlA",
-					"user": "Zest"
-				}, 
-				{
-					"percent": "100",
-					"link": "https://youtu.be/JG7u4js8efM",
-					"user": "Motor8"
-				}
+        {
+            "percent": "100",
+            "link": "https://youtu.be/YHcVuzim6VY",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/2_3g6kllWlA",
+            "user": "Zest"
+        }, 
+        {
+            "percent": "100",
+            "link": "https://youtu.be/JG7u4js8efM",
+            "user": "Motor8"
+        }
     ]
 }
