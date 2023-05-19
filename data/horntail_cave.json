@@ -30,7 +30,12 @@
             "percent": "100",
             "link": "https://youtu.be/LV0318OWLKw?t=198",
             "user": "Motor8"
-        }, 
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/2xK1L5GaUyM",
+            "user": "Sholka"
+        },
         {
             "percent": "100",
             "link": "https://youtu.be/nnqZBmPL77c",
@@ -75,6 +80,11 @@
             "percent": "100",
             "link": "https://youtu.be/339cdHWP2Ec?t=74",
             "user": "Zaphe"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/gV9UEK3HrYk",
+            "user": "Partyt"
         }
     ]
 }
