@@ -2,14 +2,39 @@
     "id": "85695827",
     "name": "Iodine",
     "author": "Sr3k",
-    "verifier": "Motor8",
+    "verifier": "Sr3k",
     "desc": "The halogen and the inert gases travel in pairs",
     "percentToQualify": "100",
     "handcam": 0,
     "hacked": false,
     "unrated": false,
-    "verificationVid": "https://youtu.be/InMXtxo1EU4?t=4",
+    "verificationVid": "https://youtu.be/i1pxsyjj5wk",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/InMXtxo1EU4?t=4",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/NHo5XyNI3yA",
+            "user": "AnnihilationGD"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/qofrZp8pQ3g?t=23",
+            "user": "CamoCat"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/WO37zdnbwNU",
+            "user": "Raezori"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Dzmcf82LaBc",
+            "user": "oskifar"
+        }
     ]
 }
