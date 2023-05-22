@@ -11,30 +11,35 @@
     "verificationVid": "https://youtu.be/vZr9-BJrzKg",
     "password": "",
     "records": [
-				{
-					"percent": "100",
-					"link": "https://youtu.be/aALXXNLjWM0",
-					"user": "PrankOrigami"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/mIO1FdYVHcY",
-					"user": "Zest"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/JzsaK_WodEA",
-					"user": "Batle"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/nS3dlpvWBAw",
-					"user": "ATF"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/LV0318OWLKw?t=379",
-					"user": "Motor8"
-				}
+        {
+            "percent": "100",
+            "link": "https://youtu.be/aALXXNLjWM0",
+            "user": "PrankOrigami"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/mIO1FdYVHcY",
+            "user": "Zest"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/JzsaK_WodEA",
+            "user": "Batle"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/nS3dlpvWBAw",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/LV0318OWLKw?t=379",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/gS1jE6Va9qk",
+            "user": "Alza"
+        }
     ]
 }
