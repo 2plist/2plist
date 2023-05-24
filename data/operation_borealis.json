@@ -7,7 +7,7 @@
     "percentToQualify": "100",
     "handcam": 0,
     "hacked": false,
-    "unrated": false,
+    "unrated": true,
     "verificationVid": "https://youtu.be/ToshDOBSGTY",
     "password": "",
     "records": [
