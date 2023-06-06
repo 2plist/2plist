@@ -11,5 +11,15 @@
     "verificationVid": "https://youtu.be/d_trh6SlHgY",
     "password": "006900",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://www.twitch.tv/videos/1828277195",
+            "user": "Zaphe"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/mZOw81Ulurc?t=146",
+            "user": "Motor8"
+        }
     ]
 }
