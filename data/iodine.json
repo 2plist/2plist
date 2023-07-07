@@ -58,13 +58,23 @@
         },
         {
             "percent": "100",
+            "link": "https://www.youtube.com/watch?v=T_mjLKeg7Vw",
+            "user": "Sedna"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/4zcLKYJZYaw",
             "user": "maxgreenevsky"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=T_mjLKeg7Vw",
-            "user": "Sedna"
+            "link": "https://youtu.be/KYvnfnYDoXw",
+            "user": "Sholka"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/I9dlQvvHFk0",
+            "user": "Truebolt"
         }
     ]
 }
