@@ -35,6 +35,11 @@
         "link": "#"
     },
     {
+        "role": "helper",
+        "name": "tomm",
+        "link": "https://youtube.com/@tommGMD"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/c/PrometheusAlt"
