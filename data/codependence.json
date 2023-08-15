@@ -4,7 +4,7 @@
     "author": "TCTeam",
     "verifier": "Pukklez",
     "desc": "Duelo Maestro but better | Verified by Kapinapi and ViralDL | Have fun!",
-    "percentToQualify": "56",
+    "percentToQualify": "45",
     "handcam": 2,
     "hacked": false,
     "unrated": false,
@@ -15,6 +15,11 @@
 					"percent": "100",
 					"link": "https://youtu.be/2oLxaLhTbn8",
 					"user": "Reptilian"
+        },
+        {
+					"percent": "47",
+					"link": "https://youtu.be/JW2be91MVwg",
+					"user": "Graydient"
         }
     ]
 }
