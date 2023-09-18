@@ -38,6 +38,11 @@
         },
         {
             "percent": "100",
+            "link": "https://youtu.be/1vrxebPw3h0",
+            "user": "Pizzabote6h"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/Q6maIbFJEcQ",
             "user": "conski"
         },
@@ -55,6 +60,11 @@
             "percent": "100",
             "link": "https://youtu.be/boWdzZOs6vQ?si=lO81ftHgsybhhTSZ",
             "user": "kath"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=FyqqQ_SG15E",
+            "user": "rei"
         }
     ]
 }
