@@ -188,13 +188,18 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/h21WuokcAM8?si=Q1YgR5wDHv616qKM",
+            "link": "https://youtu.be/h21WuokcAM8",
             "user": "kath"
         },
         {
             "percent": "100",
             "link": "https://youtu.be/WKRkpMOUzAw",
             "user": "exsii"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=_5p0BavGPeMw",
+            "user": "rei"
         }
     ]
 }
