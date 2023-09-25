@@ -11,6 +11,10 @@
     "verificationVid": "https://www.youtube.com/watch?v=kx4RR7wbRHQ",
     "password": "002019",
     "records": [
-
+        {
+            "percent": "100",
+            "link": "https://youtu.be/VBu6gs3SPng?si=448WS-BqWArt7nho",
+            "user": "rei"
+        }
     ]
 }

@@ -11,6 +11,20 @@
     "verificationVid": "https://youtu.be/tfxp7Bh2c0U?si=8z-WAptXyhfIcStP",
     "password": "Free to Copy",
     "records": [
-        
+        {
+            "percent": "100",
+            "link": "https://youtu.be/l7rDbBJ7VpQ?si=8pojQIjqtHQEVxaG",
+            "user": "rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/nlW-yMnvlKg?si=DT5gqACIXbFiw7M6",
+            "user": "tomm"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=DeLscSkRpFQ",
+            "user": "derpyfaceddude"
+        }
     ]
 }

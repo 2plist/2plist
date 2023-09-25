@@ -11,6 +11,15 @@
   "verificationVid": "https://www.youtube.com/watch?v=CTiNrXQQ4s0",
   "password": "Not Copyable",
   "records": [
-        
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=QJcN9HFcMms&t=71s",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/VBu6gs3SPng?si=448WS-BqWArt7nho",
+            "user": "rei"
+        }
       ]
 }
