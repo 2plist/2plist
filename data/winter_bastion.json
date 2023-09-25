@@ -1,16 +1,16 @@
 {
-			"id": "89586130",
-			"name": "Winter Bastion",
+	  "id": "89586130",
+	  "name": "Winter Bastion",
       "author": "NitronicBlitz",
       "verifier": "Kabiee",
-			"desc": "A Somber Stroll",
-			"percentToQualify": "100",
-			"handcam": 0,
-			"hacked": false,
-			"unrated": true,
-			"verificationVid": "https://youtu.be/-r03MlIj2f0?si=0qFYx6tnfr5S5-CS",
+	  "desc": "A Somber Stroll",
+	  "percentToQualify": "100",
+	  "handcam": 0,
+	  "hacked": false,
+	  "unrated": true,
+	  "verificationVid": "https://youtu.be/-r03MlIj2f0?si=0qFYx6tnfr5S5-CS",
       "password": "Not Copyable",
-			"records": [
+	  "records": [
         
       ]
 }
