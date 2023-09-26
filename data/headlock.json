@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/uMXad_aM15E?si=w-U-sadso4HNJn2I",
+            "user": "spectryl"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/l7rDbBJ7VpQ?si=8pojQIjqtHQEVxaG",
             "user": "rei"
         },
@@ -25,6 +30,16 @@
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=DeLscSkRpFQ",
             "user": "derpyfaceddude"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/IPKgeul_Z50",
+            "user": "Nsaynchkn"
+        },
+        {
+            "percent": "63",
+            "link": "https://youtu.be/ByWE4iv3Yxs",
+            "user": "oskifar"
         }
     ]
 }
