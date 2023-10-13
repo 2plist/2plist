@@ -11,6 +11,10 @@
     "verificationVid": "https://www.youtube.com/watch?v=onB6bo1WcxQ&t=128s",
     "password": "Not Copyable",
     "records": [
-      
+       {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=NXI01uSmZaU&t=35s",
+            "user": "Rei"
+        }
     ]
 }
