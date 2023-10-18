@@ -6,27 +6,17 @@
     },
     {
         "role": "admin",
-        "name": "ATF",
-        "link": "https://www.youtube.com/channel/UCwBU8ulosh1IyNHoaLWdrwg"
-    },
-    {
-        "role": "admin",
-        "name": "gdbatle1",
-        "link": "#"
-    },
-    {
-        "role": "admin",
         "name": "Motor8",
         "link": "#"
     },
     {
         "role": "helper",
-        "name": "Charlotte",
-        "link": "#"
+        "name": "ATF",
+        "link": "https://www.youtube.com/channel/UCwBU8ulosh1IyNHoaLWdrwg"
     },
     {
         "role": "helper",
-        "name": "Pukklez",
+        "name": "gdbatle1",
         "link": "#"
     },
     {
