@@ -28,8 +28,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/429qZhoUMEg?si=eoROBFqIXcZOSpce",
+            "link": "https://youtu.be/429qZhoUMEg",
             "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=fHnTJKbBTpg",
+            "user": "ThosePixels"
         }
     ]
 }
