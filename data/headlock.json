@@ -118,13 +118,23 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/TfqSmR37n_c?si=kzzySiDOyLo1jdTR",
+            "link": "https://youtu.be/TfqSmR37n_c",
             "user": "vaughn"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/JqGxXicMLqQ?si=qsEgwR2zyWK8dq9Z",
+            "link": "https://youtu.be/JqGxXicMLqQ",
             "user": "Broski1"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/ZNJ50kq2-xw",
+            "user": "nico27"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=Vf40e8AuWOM",
+            "user": "zSquidKnight"
         }
     ]
 }
