@@ -188,8 +188,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/faO_UplOdPM?si=ZrlqbL2WSbPTE_6Z",
+            "link": "https://youtu.be/faO_UplOdPM",
             "user": "StarfruitGamer"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=Rrh_GUO7j1g&t=204s",
+            "user": "mendel"
         }
     ]
 }
