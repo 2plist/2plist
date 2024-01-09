@@ -11,6 +11,11 @@
     "verificationVid": "https://www.youtube.com/watch?v=vtBbGgbLadA",
     "password": "123223",
     "records": [
+         {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=9nwR1DUqDLE",
+            "user": "Rei"
+        },
         {
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=C3_rbHi59C4&t=126s",
