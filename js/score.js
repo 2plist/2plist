@@ -30,15 +30,21 @@ export function score(rank, percent, minPercent) {
     */
     
     //New new formula
-    let score = ((473.999389302/(rank + 3.39387060159))-7.87741203178)
+    let score = ((473.999389302/(rank + 3.39387060159))-7.87741203178);
 
     score = Math.max(0, score);
 
-    if (percent != 100) {
-        return round(score - score / 3);
+    if (percent == 100) {
+        return round(score);
     }
-
-    return Math.max(round(score), 0);
+    else if (percent >= minPercent) {
+        return round(0.5*score*(percent-minPercent)/(100-minPercent)+0.25*score);
+        // quarter points come from list %, quarter points come from completion
+        // rest come from progress between that
+    }
+    else {
+        return 0;
+    }
 }
 
 export function round(num) {
