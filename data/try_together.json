@@ -103,7 +103,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/iEs74xq2xv4?si=KIgs0F7IkfhieNnP",
+            "link": "https://youtu.be/iEs74xq2xv4",
             "user": "vitamin227"
         },
         {
@@ -113,7 +113,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/y0WS2lgvu-c?si=AZWfhESxdJGwmKvN",
+            "link": "https://youtu.be/y0WS2lgvu-c",
             "user": "Cr1msoN"
         },
         {
@@ -145,6 +145,11 @@
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=2SOaBB9Ij-s",
             "user": "Lily"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/dsJ_iNq7I40",
+            "user": "Someperson255"
         }
     ]
 }
