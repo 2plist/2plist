@@ -2,16 +2,21 @@
     "id": "5289002",
     "name": "Leviathan",
     "author": "KaptainCPU",
-    "verifier": "Zest",
+    "verifier": "KPGDylan",
     "desc": "Collab with ShockR. Has about 15k objects. More levels coming soon!",
     "percentToQualify": "100",
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=JWD2K30E8r4&t=58s",
+    "verificationVid": "https://www.youtube.com/watch?v=-jugAwY_xzk",
     "password": "Not Copyable",
     "records": [
 				{
+					"percent": "100",
+					"link": "https://www.youtube.com/watch?v=JWD2K30E8r4&t=58s",
+					"user": "Zest"
+				},
+                {
 					"percent": "100",
 					"link": "https://youtu.be/YPCBrVJ55eU?t=5",
 					"user": "Motor8"
