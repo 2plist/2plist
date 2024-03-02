@@ -108,13 +108,18 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/_YIh1RdcOU0?si=TA6miUJHYewc7usm",
+            "link": "https://youtu.be/_YIh1RdcOU0",
             "user": "Rei"
         },
         {
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=U_DpJLANhDI",
             "user": "Ryclix"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=QSC5icvoNFc",
+            "user": "fusion425"
         }
     ]
 }
