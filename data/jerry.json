@@ -11,5 +11,20 @@
     "verificationVid": "https://www.youtube.com/watch?v=rXegcAKQLx8",
     "password": "N/A",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/jTXZ24Ik7mM",
+            "user": "Geiser"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/xIVwNBUqx2U",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Wf7jt1RgZYE",
+            "user": "Graydient"
+        }
     ]
 }

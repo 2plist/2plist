@@ -18,7 +18,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/5xSCBGxTv5U?si=_B6MSfa-eJtky-kx",
+            "link": "https://youtu.be/5xSCBGxTv5U",
             "user": "Rei"
         },
         {
@@ -35,6 +35,11 @@
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=J9-Khb2i47w",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/--fQYNRwEmM",
+            "user": "Cr1msoN"
         }
     ]
 }
