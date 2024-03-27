@@ -5,7 +5,7 @@
     "verifier": "Zest",
     "desc": "Cruise Down the Cursed Corridor | Verified by Patrick61804 and myself | Level by Moffe",
     "percentToQualify": "100",
-    "handcam": 1,
+    "handcam": 0,
     "hacked": false,
     "unrated": true,
     "verificationVid": "https://youtu.be/lJT6gdJ_mDc",
@@ -55,6 +55,11 @@
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=8NfBbMDEyT8",
             "user": "derpyfaceddude"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Xdya5HD7udw?t=83",
+            "user": "conski"
         }
     ]
 }
