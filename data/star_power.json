@@ -178,6 +178,11 @@
         },
         {
             "percent": "100",
+            "link": "https://www.youtube.com/watch?v=WiwxckUgT3o",
+            "user": "GreenSylvi"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/o57CWWyOvLQ?si=tL_76-kHu7QrtsgC",
             "user": "Cr1msoN"
         },
@@ -275,6 +280,11 @@
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=kMIPgCl8Cm0&t=105s",
             "user": "Jegorkaro"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=A5mUb5AiDO0",
+            "user": "Brutusen"
         }
     ]
 }
