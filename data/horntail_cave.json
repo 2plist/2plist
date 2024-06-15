@@ -238,6 +238,11 @@
         },
         {
             "percent": "100",
+            "link": "https://www.youtube.com/watch?v=Qsg5c_IwytI",
+            "user": "opayc"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/liRPH2x9hgM",
             "user": "ri0luqy_"
         },
@@ -300,6 +305,11 @@
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=UQK4BFJn-0M",
             "user": "Spectre"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=kApEKrm8A7A",
+            "user": "Cr1msoN"
         }
     ]
 }
