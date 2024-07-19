@@ -8,28 +8,33 @@
     "handcam": 2,
     "hacked": false,
     "unrated": false,
-    "verificationVid": "https://www.youtube.com/watch?v=C8uSFs01qwc",
+    "verificationVid": "https://youtu.be/C8uSFs01qwc",
     "password": "",
     "records": [
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=bVc-ycz9t7I",
+            "link": "https://youtu.be/bVc-ycz9t7I",
             "user": "conski"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/pf_LD5S9q50?si=wr5647XX8TbbYdT8",
+            "link": "https://youtu.be/pf_LD5S9q50",
             "user": "Whizkid05"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=s4mXGwH0KPA",
+            "link": "https://youtu.be/s4mXGwH0KPA",
             "user": "Sneaky_"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=AHrtT40FqkY",
+            "link": "https://youtu.be/AHrtT40FqkY",
             "user": "Rqd"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/XNggaG6GW58",
+            "user": "GertrudeGaming"
         }
     ]
 }
