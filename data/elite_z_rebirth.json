@@ -13,7 +13,7 @@
     "records": [
         {
             "percent": "100",
-            "link": "https://youtu.be/NM8tT3IUjNA?si=wS45uu1ld_QvyJTy",
+            "link": "https://youtu.be/NM8tT3IUjNA",
             "user": "XyliTol"
         },
         {
@@ -53,7 +53,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/YcdDkLcWWXw?si=kU2ud5Iv7-aBajGi",
+            "link": "https://youtu.be/YcdDkLcWWXw",
             "user": "thechiron"
         },
         {
@@ -78,7 +78,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/oJaHuzL37Hc?si=AxvngzPrkKzIUJ7L",
+            "link": "https://youtu.be/oJaHuzL37Hc",
             "user": "Zeronium"
         },
         {
@@ -88,7 +88,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/9PymyJ1Q7Dk?si=kqjq6-o4WdCOnQap",
+            "link": "https://youtu.be/9PymyJ1Q7Dk",
             "user": "kath"
         },
         {
@@ -140,6 +140,11 @@
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=c0B742cG95g",
             "user": "Vegardo"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/NRa839ATzvY",
+            "user": "Sfan"
         }
     ]
 }
