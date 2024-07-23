@@ -68,13 +68,18 @@
 				},
                 {
 					"percent": "100",
-					"link": "https://youtu.be/fTWxyTm5v6A?si=RXurqUFwwr1elCMv",
+					"link": "https://youtu.be/fTWxyTm5v6A",
 					"user": "Cr1msoN"
 				},
                 {
 					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=4cdgNO9gE9Y",
+					"link": "https://youtu.be/4cdgNO9gE9Y",
 					"user": "GertrudeGaming"
+				},
+                {
+					"percent": "100",
+					"link": "https://youtu.be/c6hQzDiKV5Q",
+					"user": "HG14mmar"
 				}
     ]
 }
