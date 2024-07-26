@@ -28,7 +28,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=ih8fgy_0JpE",
+            "link": "https://youtu.be/ih8fgy_0JpE",
             "user": "zustwocry"
         },
         {
@@ -38,7 +38,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=QUkCF-R7K0Y",
+            "link": "https://youtu.be/QUkCF-R7K0Y",
             "user": "Ryclix"
         },
         {
@@ -73,7 +73,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=6eJmoSAfdsI",
+            "link": "https://youtu.be/6eJmoSAfdsI",
             "user": "cxtuwu"
         },
         {
@@ -83,7 +83,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/K3IZ8fs5Mik?si=CT559zAt2vR5KhSU",
+            "link": "https://youtu.be/K3IZ8fs5Mik",
             "user": "Rei"
         },
         {
@@ -123,17 +123,17 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=GHWSFkVQjBs",
+            "link": "https://youtu.be/GHWSFkVQjBs",
             "user": "ptyw"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=J9XmGW8Gjsc",
+            "link": "https://youtu.be/J9XmGW8Gjsc",
             "user": "shtof"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=qoqYrReqAAc",
+            "link": "https://youtu.be/qoqYrReqAAc",
             "user": "gBen"
         },
         {
@@ -143,7 +143,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=2SOaBB9Ij-s",
+            "link": "https://youtu.be/2SOaBB9Ij-s",
             "user": "Lily"
         },
         {
@@ -158,17 +158,17 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=vjQ3nCgANqE",
+            "link": "https://youtu.be/vjQ3nCgANqE",
             "user": "Ketchup"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Rvm1WpzZYvY",
+            "link": "https://youtu.be/Rvm1WpzZYvY",
             "user": "Sholka"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=-3b5KKzLOzM",
+            "link": "https://youtu.be/-3b5KKzLOzM",
             "user": "Geiser"
         },
         {
@@ -178,7 +178,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Xdya5HD7udw",
+            "link": "https://youtu.be/Xdya5HD7udw",
             "user": "conski"
         },
         {
@@ -188,32 +188,32 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=WAkJrPT5OIA",
+            "link": "https://youtu.be/WAkJrPT5OIA",
             "user": "Wobbly4873"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=RGmFEZJzzJE",
+            "link": "https://youtu.be/RGmFEZJzzJE",
             "user": "MagnificCub9216"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=P0E15I6wFRw",
+            "link": "https://youtu.be/P0E15I6wFRw",
             "user": "Owlyy"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?app=desktop&v=SRlR5lj-h_o&t",
+            "link": "https://youtu.be/SRlR5lj-h_o",
             "user": "RanOutOfUsers"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=oUVVswpeIuE",
+            "link": "https://youtu.be/oUVVswpeIuE",
             "user": "kas ia"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Qq8yVZsY1RI",
+            "link": "https://youtu.be/Qq8yVZsY1RI",
             "user": "EdBnt"
         },
         {
@@ -223,8 +223,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=SetbqUrZzIc",
+            "link": "https://youtu.be/SetbqUrZzIc",
             "user": "Gummyworm41"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Nvypn1TXqDc",
+            "user": "GDChocolate"
         }
     ]
 }
