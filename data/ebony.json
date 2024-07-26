@@ -33,7 +33,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=q__y-T8IXuM",
+            "link": "https://youtu.be/q__y-T8IXuM",
             "user": "vitamin227"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/Gipjk3dIWZE?si=k9jP2fnvSCqKxjV0",
+            "link": "https://youtu.be/Gipjk3dIWZE",
             "user": "Rei"
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=NNQEsPUcsDY",
+            "link": "https://youtu.be/NNQEsPUcsDY",
             "user": "Ink"
         },
         {
@@ -68,7 +68,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=j0GpsMy_smY",
+            "link": "https://youtu.be/j0GpsMy_smY",
             "user": "gBen"
         },
         {
@@ -78,13 +78,18 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=YT9qpE2T3GQ",
+            "link": "https://youtu.be/YT9qpE2T3GQ",
             "user": "wacky"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/PwSF97wjlaM&t=412",
+            "link": "https://youtu.be/PwSF97wjlaM?t=412",
             "user": "kas ia"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/2q6TOfGr80I",
+            "user": "Turnip"
         }
     ]
 }
