@@ -233,8 +233,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=o8KyJu39sAc",
+            "link": "https://youtu.be/o8KyJu39sAc",
             "user": "evo_gd"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/CD2hz-0EjpQ",
+            "user": "coubitic"
         }
     ]
 }
