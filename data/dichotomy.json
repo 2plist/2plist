@@ -8,12 +8,12 @@
     "handcam": 2,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=gPIyDgVYhDU",
+    "verificationVid": "https://youtu.be/gPIyDgVYhDU",
     "password": "",
     "records": [
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=71XYOK2p6l0",
+            "link": "https://youtu.be/71XYOK2p6l0",
             "user": "gBen"
         },
         {
@@ -23,12 +23,12 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/tVS6viymbEQ?si=SdnVDA0p-l_DMVOw",
+            "link": "https://youtu.be/tVS6viymbEQ",
             "user": "Cr1msoN"
         },
         {
-            "percent": "84",
-            "link": "https://www.youtube.com/watch?v=c9boKgsYz8o",
+            "percent": "95",
+            "link": "https://youtu.be/bBIPf9RGYJo",
             "user": "vapidf"
         }
     ]
