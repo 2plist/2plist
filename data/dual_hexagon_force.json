@@ -11,5 +11,9 @@
     "verificationVid": "https://www.youtube.com/watch?v=7Flua2qIYng&t=4s",
     "password": "Not Copyable",
     "records": [
-    ]
+        {
+            "percent": "100",
+            "link": "https://youtu.be/ahHLbPPjrNU?si=K4_rismXifihSWgh",
+            "user": "RanOutOfUsers "
+        },
 }
