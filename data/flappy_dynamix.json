@@ -8,7 +8,7 @@
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=XRbS2URgB8Y",
+    "verificationVid": "https://youtu.be/XRbS2URgB8Y",
     "password": "Not Copyable",
     "records": [
         {
@@ -28,8 +28,18 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/kZMBgcRDVTo?si=X7uV2twRFBSs1lNh",
+            "link": "https://youtu.be/kZMBgcRDVTo",
             "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Yy6EBk9tvt0",
+            "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/n_2n7DFjH0A?t=3",
+            "user": "gBen"
         }
     ]
 }
