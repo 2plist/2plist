@@ -38,13 +38,18 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=QsBsQqtz3sw",
+            "link": "https://youtu.be/QsBsQqtz3sw",
             "user": "oskifar"
         },
         {
             "percent": "100",
             "link": "https://youtu.be/UaWR-V7uiGI",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/n_2n7DFjH0A?t=147",
+            "user": "gBen"
         }
     ]
 }
