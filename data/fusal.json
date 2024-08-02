@@ -8,9 +8,14 @@
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=JeF0ZbEFfRc",
+    "verificationVid": "https://youtu.be/JeF0ZbEFfRc",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/n_2n7DFjH0A?t=61",
+            "user": "gBen"
+		},
         {
             "percent": "100",
             "link": "https://youtu.be/CApKlqExOzQ",
