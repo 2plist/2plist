@@ -8,7 +8,7 @@
     "handcam": 0,
     "hacked": false,
     "unrated": false,
-    "verificationVid": "https://www.youtube.com/watch?v=3dAU27ltfFc",
+    "verificationVid": "https://youtu.be/3dAU27ltfFc",
     "password": "752144",
     "records": [
         {
@@ -90,6 +90,11 @@
             "percent": "100",
             "link": "https://youtu.be/12uonhv-lQQ",
             "user": "Woachi"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/OrQ7ZoiajKY?t=416",
+            "user": "ThosePixels"
         }
     ]
 }
