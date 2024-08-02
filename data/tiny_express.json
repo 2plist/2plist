@@ -23,18 +23,23 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/MkDmUTDaMqE?si=E9dc5x3Ji0oW9zy4",
+            "link": "https://youtu.be/MkDmUTDaMqE",
             "user": "Rei"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=6kt8BN3OXBI",
+            "link": "https://youtu.be/6kt8BN3OXBI",
             "user": "Zest"
         },
         {
             "percent": "100",
             "link": "https://youtu.be/3uIEHZX_YnM",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Ouv7cmhS7lY?t=163",
+            "user": "gBen"
         }
     ]
 }
