@@ -58,8 +58,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/AL5hSoT0tB4?si=WC8imyTUnHuZFJTK",
+            "link": "https://youtu.be/AL5hSoT0tB4",
             "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/693msPxEGRo?t=64",
+            "user": "gBen"
         }
     ]
 }
