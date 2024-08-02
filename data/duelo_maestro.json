@@ -408,8 +408,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=OnYN6Suw5GI",
+            "link": "https://youtu.be/OnYN6Suw5GI",
             "user": "Nsaynchkn"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/8GKjRYFtLhM",
+            "user": "MrAdromeda"
         }
     ]
 }
