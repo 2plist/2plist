@@ -18,7 +18,7 @@
         },
         {
 			"percent": "100",
-			"link": "https://youtu.be/K82mJboH1vI?t=47",
+			"link": "https://youtu.be/K82mJboH1vI",
 			"user": "Tupyton"
 		},
         {
@@ -48,7 +48,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Dl7C5KFpT8w",
+            "link": "https://youtu.be/Dl7C5KFpT8w",
             "user": "SlightliFizzi"
         },
         {
@@ -58,7 +58,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=T_mjLKeg7Vw",
+            "link": "https://youtu.be/T_mjLKeg7Vw",
             "user": "Sedna"
         },
         {
@@ -98,7 +98,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=EhDMSZNypHo",
+            "link": "https://youtu.be/EhDMSZNypHo",
             "user": "Cr1msoN"
         },
         {
@@ -113,43 +113,48 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/PCWZC5Xow1s&t=18",
+            "link": "https://youtu.be/PCWZC5Xow1s?t=18",
             "user": "Rei"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=OAFX8xIU_co",
+            "link": "https://youtu.be/OAFX8xIU_co",
             "user": "fembee"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/sKMiDhe9ulQ?si=CVHfCgpgyzjyzLR4",
+            "link": "https://youtu.be/sKMiDhe9ulQ",
             "user": "Chinxop"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=KviIx2cZLYo",
+            "link": "https://youtu.be/KviIx2cZLYo",
             "user": "aliten"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=TJEPYtsxqAA",
+            "link": "https://youtu.be/TJEPYtsxqAA",
             "user": "Ryclix"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=qcB3L1r6Ltg",
+            "link": "https://youtu.be/qcB3L1r6Ltg",
             "user": "Terminum"
         },
         {
             "percent": "100",
-            "link": "https://m.youtube.com/watch?v=Nt92vZ5-8os&pp=ygUJc3J0b3JuYWRv",
+            "link": "https://youtu.be/Nt92vZ5-8os",
             "user": "SrTornado"
         },
         {
             "percent": "100",
             "link": "https://youtu.be/Yy6EBk9tvt0",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/693msPxEGRo?t=743",
+            "user": "gBen"
         }
     ]
 }
