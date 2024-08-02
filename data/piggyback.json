@@ -11,5 +11,8 @@
     "verificationVid": "https://www.youtube.com/watch?v=f7jtNRg2ko4",
     "password": "",
     "records": [
-    ]
-}
+        {
+            "percent": "100",
+            "link": "https://youtu.be/ExymbSKLHQE",
+            "user": "Ketchup"
+        }
