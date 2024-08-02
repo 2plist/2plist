@@ -8,12 +8,12 @@
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=kx4RR7wbRHQ",
+    "verificationVid": "https://youtu.be/kx4RR7wbRHQ",
     "password": "002019",
     "records": [
         {
             "percent": "100",
-            "link": "https://youtu.be/VBu6gs3SPng?si=448WS-BqWArt7nho",
+            "link": "https://youtu.be/VBu6gs3SPng",
             "user": "Rei"
         },
         {
@@ -28,13 +28,18 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=xC5TR-7B65E",
+            "link": "https://youtu.be/xC5TR-7B65E",
             "user": "Ink"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=zwdcIeUYcGE",
+            "link": "https://youtu.be/zwdcIeUYcGE",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Ouv7cmhS7lY",
+            "user": "gBen"
         }
     ]
 }
