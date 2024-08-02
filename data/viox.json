@@ -63,17 +63,17 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=EkGQ0_erJs8",
+            "link": "https://youtu.be/EkGQ0_erJs8",
             "user": "Zaphe"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=CL_GkFSq6wM",
+            "link": "https://youtu.be/CL_GkFSq6wM",
             "user": "vitamin227"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=LPzg2RnG6xY",
+            "link": "https://youtu.be/LPzg2RnG6xY",
             "user": "SlightliFizzi"
         },
         {
@@ -83,17 +83,17 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Et6CcueOPyE&t=282s",
+            "link": "https://youtu.be/Et6CcueOPyE?t=282s",
             "user": "Peroxide01"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=a83heJklE-M",
+            "link": "https://youtu.be/a83heJklE-M",
             "user": "Dreamlight"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=PI-F_8hfEZQ",
+            "link": "https://youtu.be/PI-F_8hfEZQ",
             "user": "thirtytwenty"
         },
         {
@@ -103,8 +103,18 @@
         },
         {
             "percent": "100",
+            "link": "https://youtu.be/73MG4Sqx80k",
+            "user": "Bram4Real"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/rUaJenCz4Mk",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/g0jv521lGzU",
+            "user": "vapidf"
         }
     ]
 }
