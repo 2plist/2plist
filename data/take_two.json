@@ -48,8 +48,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=IdjfvRKr7qQ",
+            "link": "https://youtu.be/IdjfvRKr7qQ",
             "user": "evo_gd"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/-menp3FCEno",
+            "user": "GHC"
         }
     ]
 }
