@@ -33,7 +33,7 @@
 				},
 				{
 					"percent": "100",
-					"link": "https://youtu.be/5D-mFj2gH6E?si=uw3ZSSMvpgFMgg8n",
+					"link": "https://youtu.be/5D-mFj2gH6E",
 					"user": "Rei"
 				},
 				{
@@ -62,8 +62,13 @@
 					"user": "conski"
 				},
                 {
+					"percent": "100",
+					"link": "https://youtu.be/CUNuYLJCZ-w",
+					"user": "Lloydubs"
+				},
+                {
 					"percent": "75",
-					"link": "https://youtu.be/DBLoA_wLk0g?si=Hw9OvUrVxbgiVu0w",
+					"link": "https://youtu.be/DBLoA_wLk0g",
 					"user": "Cr1msoN"
 				}
     ]
