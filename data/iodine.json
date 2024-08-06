@@ -178,17 +178,22 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=cOaW-4nbpJw",
+            "link": "https://youtu.be/cOaW-4nbpJw",
             "user": "evo_gd"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=HdJm5WMm6Nc",
+            "link": "https://youtu.be/HdJm5WMm6Nc",
             "user": "MrAdromeda"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/cBIUgwZ4R4M?si=DKPWlA-qT9kj11Nr",
+            "link": "https://youtu.be/cBIUgwZ4R4M",
+            "user": "StarfruitGamer"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/cBIUgwZ4R4M",
             "user": "StarfruitGamer"
         }
     ]
