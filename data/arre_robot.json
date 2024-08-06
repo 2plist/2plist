@@ -238,8 +238,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/pTdAD_MOQ0Q&t=319",
+            "link": "https://youtu.be/pTdAD_MOQ0Q?t=319",
             "user": "wMixy"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/6N4YfidFlk4",
+            "user": "Rei"
         }
     ]
 }
