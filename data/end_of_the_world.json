@@ -28,8 +28,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=4wyNt9M-1Ws",
+            "link": "https://youtu.be/4wyNt9M-1Ws",
             "user": "evo_gd"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/qRHQa5coPVw",
+            "user": "Rei"
         }
     ]
 }
