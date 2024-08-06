@@ -43,13 +43,18 @@
 		},
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=XlMCUPUi0TI",
+            "link": "https://youtu.be/XlMCUPUi0TI",
             "user": "vitamin227"
 		},
         {
             "percent": "100",
             "link": "https://youtu.be/L1YyuKhRxxI",
             "user": "wMixy"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/APBxSUFelaQ",
+            "user": "Rei"
 		}
     ]
 }
