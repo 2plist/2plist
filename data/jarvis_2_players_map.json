@@ -8,13 +8,18 @@
     "handcam": 2,
     "hacked": false,
 	"unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=jcmgyryZaaE",
+    "verificationVid": "https://youtu.be/jcmgyryZaaE",
     "password": "N/A",
     "records": [
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=WdtIJe1n9UM&t=79s",
+            "link": "https://youtu.be/WdtIJe1n9UM?t=79",
             "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/ilPRmNsyqJI",
+            "user": "Rei"
         }
     ]
 }
