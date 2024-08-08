@@ -153,8 +153,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=gmtThYnRm6E",
+            "link": "https://youtu.be/gmtThYnRm6E",
             "user": "MrAdromeda"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/vMjDXIkxcpI",
+            "user": "GHC"
         }
     ]
 }
