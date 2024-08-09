@@ -203,13 +203,18 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/CTZBClp7OQc?si=EItibPs_vgDPLudH",
+            "link": "https://youtu.be/CTZBClp7OQc",
             "user": "StarfruitGamer"
         },
         {
             "percent": "100",
             "link": "https://youtu.be/1aly7l7t9F4",
             "user": "tomm"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/rrvXLJXflbw",
+            "user": "derpyfaceddude"
         }
     ]
 }
