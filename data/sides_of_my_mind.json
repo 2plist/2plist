@@ -8,7 +8,7 @@
     "handcam": 2,
     "hacked": false,
     "unrated": false,
-    "verificationVid": "https://youtu.be/d3d2KPVgCAk?si=29oBHEF5dC3ll4ZZ",
+    "verificationVid": "https://youtu.be/d3d2KPVgCAk",
     "password": "123987",
     "records": [
         {
@@ -40,6 +40,11 @@
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=MiKD0WcDFbc",
             "user": "Ryclix"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/IKG4Tluy1kc",
+            "user": "Draks_Loves_U"
         }
     ]
 }
