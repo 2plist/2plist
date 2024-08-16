@@ -203,8 +203,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=RKARWDpNlMI&t=261",
+            "link": "https://youtu.be/RKARWDpNlMI?t=261",
             "user": "Sneaky_"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/lNPTG3end2s",
+            "user": "Ian GMD"
         }
     ]
 }
