@@ -198,8 +198,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/ubedyWpFKYw?si=13Ronsea35jDSN7v",
+            "link": "https://youtu.be/ubedyWpFKYw",
             "user": "wMixy"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/nwVV7Y8ilIE",
+            "user": "yourlocalmoron"
         }
     ]
 }
