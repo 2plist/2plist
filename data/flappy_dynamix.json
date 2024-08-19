@@ -48,8 +48,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=BzfbLqZW5oM",
+            "link": "https://youtu.be/BzfbLqZW5oM",
             "user": "Gummyworm41"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/2_mT58KLRAA?t=599",
+            "user": "ThosePixels"
         }
     ]
 }
