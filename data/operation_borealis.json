@@ -88,8 +88,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=LSMwsrZSlvg",
+            "link": "https://youtu.be/LSMwsrZSlvg",
             "user": "Dagz"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/BNIGC4GFcM4",
+            "user": "vapidf"
         }
     ]
 }
