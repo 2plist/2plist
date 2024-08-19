@@ -11,30 +11,35 @@
     "verificationVid": "https://youtu.be/KbAUc_6fCPI",
     "password": "",
     "records": [
-				{
-					"percent": "100",
-					"link": "https://youtu.be/InMXtxo1EU4?t=123",
-					"user": "Motor8"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/6DjE-S0S9W8",
-					"user": "ATF"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=nxURVkb9yRg",
-					"user": "Ryclix"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=tKKAlNLo85g&t=484",
-					"user": "Rei"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=118cgcDdSzk",
-					"user": "Sfan"
-				}
+        {
+            "percent": "100",
+            "link": "https://youtu.be/InMXtxo1EU4?t=123",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/6DjE-S0S9W8",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=nxURVkb9yRg",
+            "user": "Ryclix"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=tKKAlNLo85g&t=484",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=118cgcDdSzk",
+            "user": "Sfan"
+        },
+        {
+            "percent": "103",
+            "link": "https://youtu.be/Mj06YJaBiyg",
+            "user": "Graydient"
+        }
     ]
 }
