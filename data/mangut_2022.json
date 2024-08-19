@@ -93,8 +93,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=RKARWDpNlMI",
+            "link": "https://youtu.be/RKARWDpNlMI",
             "user": "Sneaky_"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/2_mT58KLRAA?t=49",
+            "user": "ThosePixels"
         }
     ]
 }
