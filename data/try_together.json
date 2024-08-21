@@ -268,8 +268,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=jqTtu3AEVq0",
+            "link": "https://youtu.be/jqTtu3AEVq0",
             "user": "wMixy"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/EZOCQhwHHxU",
+            "user": "Katushe"
         }
     ]
 }
