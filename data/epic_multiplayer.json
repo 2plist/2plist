@@ -11,45 +11,50 @@
     "verificationVid": "https://youtu.be/c3CYS12K_ls",
     "password": "397001",
     "records": [
-				{
-					"percent": "100",
-					"link": "https://youtu.be/e7QFcac8lXU",
-					"user": "Zest"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/YPCBrVJ55eU?t=110",
-					"user": "Motor8"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/HN3Vys-F8CI",
-					"user": "ATF"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/SAxv5guivg4",
-					"user": "conski"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=DsibwWYyGTc",
-					"user": "Ryclix"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/kI8l8JWsxAM?t=287",
-					"user": "Lloydubs"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=PHNbMmhWbRk",
-					"user": "derpyfaceddude"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/1rnTgWzUKEc",
-					"user": "Nsaynchkn"
-				}
+        {
+            "percent": "100",
+            "link": "https://youtu.be/e7QFcac8lXU",
+            "user": "Zest"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/YPCBrVJ55eU?t=110",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/HN3Vys-F8CI",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/SAxv5guivg4",
+            "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=DsibwWYyGTc",
+            "user": "Ryclix"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/kI8l8JWsxAM?t=287",
+            "user": "Lloydubs"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=PHNbMmhWbRk",
+            "user": "derpyfaceddude"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/1rnTgWzUKEc",
+            "user": "Nsaynchkn"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/2V5qATzQWLo",
+            "user": "Rei"
+        }
     ]
 }
