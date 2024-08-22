@@ -10,5 +10,21 @@
     "unrated": true,
     "verificationVid": "https://www.youtube.com/watch?v=J6CtfBbXXLQ",
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+					"percent": "100",
+					"link": "https://youtu.be/tmbK7LSR3QU?si=5cg0RxMg_6TcaVxm",
+					"user": "Rei"
+        },
+        {
+                    "percent": "100",
+                    "link": "https://www.youtube.com/watch?v=IUOItWahH8I",
+                    "user": "gBen"
+        },
+        {
+                    "percent": "100",
+                    "link": "https://youtu.be/X_al-NheVf4",
+                    "user": "Geiser"
+        }
+    ]
 }
