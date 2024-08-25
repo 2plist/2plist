@@ -10,5 +10,11 @@
     "unrated": true,
     "verificationVid": "https://www.youtube.com/watch?v=4b1e9ML4gh4",
     "password": "159753",
-    "records": []
+    "records": [
+        {
+                    "percent": "100",
+                    "link": "https://youtu.be/0Kz1-w8utgc",
+                    "user": "tomm"
+        }
+    ]
 }
