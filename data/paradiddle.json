@@ -10,5 +10,26 @@
     "unrated": true,
     "verificationVid": "https://youtu.be/6_ifjuNrLCw",
     "password": "Free to Copy",
-    "records": []
+    "records": [
+        {
+					"percent": "100",
+					"link": "https://www.youtube.com/watch?v=PyJGya2Tg8Y",
+					"user": "gBen"
+        },
+        {
+                    "percent": "100",
+                    "link": "https://youtu.be/XqiSG_bKRtc",
+                    "user": "vapidf"
+        },
+        {
+                    "percent": "100",
+                    "link": "https://youtu.be/kt9Dfvtv-Ls",
+                    "user": "derpyfaceddude"
+        },
+        {
+                    "percent": "100",
+                    "link": "https://youtu.be/pngD55Ojj-E?si=bx4Ln29nB-hZg5Tq",
+                    "user": "Rei"
+        }
+    ]
 }
