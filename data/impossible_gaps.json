@@ -8,13 +8,18 @@
     "handcam": 2,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=JDRDFTemM2c",
+    "verificationVid": "https://youtu.be/JDRDFTemM2c",
     "password": "Not Copyable",
     "records": [
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=TxSSJNx6XOk",
+            "link": "https://youtu.be/TxSSJNx6XOk",
             "user": "GertrudeGaming"
+        },
+        {
+            "percent": "65",
+            "link": "https://youtu.be/Abb_YWJKkQg",
+            "user": "Rei"
         }
     ]
 }
