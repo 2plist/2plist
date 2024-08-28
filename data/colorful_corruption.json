@@ -11,65 +11,70 @@
     "verificationVid": "https://youtu.be/KsU0X2cII5Q",
     "password": "555555",
     "records": [
-				{
-					"percent": "100",
-					"link": "https://youtu.be/QR6meut9wic",
-					"user": "Batle"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/_Mmk4jmK92Y",
-					"user": "CooperSuper"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/iSYjFXI8bUU",
-					"user": "ATF"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/x0skSoJB0jg",
-					"user": "Motor8"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/5D-mFj2gH6E",
-					"user": "Rei"
-				},
-				{
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=YecaHynVfKQ",
-					"user": "Ryclix"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/yZDsxQ75Pio",
-					"user": "derpyfaceddude"
-				},
-        		{
-					"percent": "100",
-					"link": "https://youtu.be/zyccNaz6BSU",
-					"user": "Nsaynchkn"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=NUalyzb0FLU",
-					"user": "Geiser"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/quA6dVBpKCU",
-					"user": "conski"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/CUNuYLJCZ-w",
-					"user": "Lloydubs"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=-7UzhHMjIzU",
-					"user": "Cr1msoN"
-				}
+        {
+            "percent": "100",
+            "link": "https://youtu.be/QR6meut9wic",
+            "user": "Batle"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/_Mmk4jmK92Y",
+            "user": "CooperSuper"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/iSYjFXI8bUU",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/x0skSoJB0jg",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/5D-mFj2gH6E",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=YecaHynVfKQ",
+            "user": "Ryclix"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/yZDsxQ75Pio",
+            "user": "derpyfaceddude"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/zyccNaz6BSU",
+            "user": "Nsaynchkn"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=NUalyzb0FLU",
+            "user": "Geiser"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/quA6dVBpKCU",
+            "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/CUNuYLJCZ-w",
+            "user": "Lloydubs"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=-7UzhHMjIzU",
+            "user": "Cr1msoN"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/0Yle2ndVj0Q",
+            "user": "ty3544"
+        }
     ]
 }
