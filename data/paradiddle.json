@@ -13,7 +13,7 @@
     "records": [
         {
 					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=PyJGya2Tg8Y",
+					"link": "https://youtu.be/PyJGya2Tg8Y",
 					"user": "gBen"
         },
         {
@@ -28,8 +28,18 @@
         },
         {
                     "percent": "100",
-                    "link": "https://youtu.be/pngD55Ojj-E?si=bx4Ln29nB-hZg5Tq",
+                    "link": "https://youtu.be/pngD55Ojj-E",
                     "user": "Rei"
+        },
+        {
+                    "percent": "100",
+                    "link": "https://youtu.be/9lameOLU-Lw",
+                    "user": "Bram4Real"
+        },
+        {
+                    "percent": "100",
+                    "link": "https://youtu.be/Qs7apz22xTU",
+                    "user": "Spitskool"
         }
     ]
 }
