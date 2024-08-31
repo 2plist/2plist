@@ -68,7 +68,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/Vaw-PGYowFE?si=CUZOKPxq5WiHVw-f",
+            "link": "https://youtu.be/Vaw-PGYowFE",
             "user": "Rei"
         },
         {
@@ -150,6 +150,11 @@
             "percent": "100",
             "link": "https://www.youtube.com/watch?v=8h69me1-occ",
             "user": "Sholka"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/FfiMQsiL0UQ",
+            "user": "Arise"
         }
     ]
 }
