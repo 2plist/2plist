@@ -73,7 +73,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/27jbP2Xae2U?si=dpmxSnPLC0UOr_6M",
+            "link": "https://youtu.be/27jbP2Xae2U",
             "user": "Yuko"
         },
         {
@@ -203,7 +203,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Nq9oNZ2qFfA",
+            "link": "https://youtu.be/Nq9oNZ2qFfA",
             "user": "evo_gd"
         },
         {
@@ -253,8 +253,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=m2fVUD4mjVU",
+            "link": "https://youtu.be/m2fVUD4mjVU",
             "user": "alzasonki"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/TaG_Q279ALM",
+            "user": "JoacoPe"
         }
     ]
 }
