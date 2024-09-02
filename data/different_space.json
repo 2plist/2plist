@@ -8,7 +8,7 @@
     "handcam": 0,
     "hacked": false,
     "unrated": false,
-    "verificationVid": "https://www.youtube.com/watch?v=vtBbGgbLadA",
+    "verificationVid": "https://youtu.be/vtBbGgbLadA",
     "password": "123223",
     "records": [
          {
@@ -43,8 +43,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=iBMkYMt145o",
+            "link": "https://youtu.be/iBMkYMt145o",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/LVskJX1cO3A",
+            "user": "JoacoPe"
         },
         {
             "percent": "100",
