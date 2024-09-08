@@ -23,7 +23,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/BFoYp5WX_1Q?si=hyksQ-yoAxvXQbh0",
+            "link": "https://youtu.be/BFoYp5WX_1Q",
             "user": "Jegorkaro"
         },
         {
@@ -52,14 +52,14 @@
             "user": "ATF"
         },
         {
+            "percent": "100",
+            "link": "https://youtu.be/8Ov79D7tNVE",
+            "user": "JuanGPe"
+        }
+        {
             "percent": "68",
             "link": "https://www.youtube.com/watch?v=CXKW4DHvluI",
             "user": "NeuronExtractor"
-        },
-        {
-            "percent": "68",
-            "link": "https://youtu.be/8Ov79D7tNVE",
-            "user": "JuanGPe"
         }
     ]
 }
