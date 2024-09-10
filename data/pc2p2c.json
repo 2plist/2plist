@@ -10,11 +10,21 @@
     "unrated": true,
     "verificationVid": "https://youtu.be/rLHYdGddxjk",
     "password": "",
-    "records": [
+    "records":[
         {
             "percent": "100",
             "link": "https://youtu.be/RDHAF_0RIEg",
             "user": "vapidf"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/w6378K6w3Z8",
+            "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=kpXf9_xWWFE",
+            "user": "Motor8"
         }
     ]
 }
