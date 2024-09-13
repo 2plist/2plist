@@ -13,6 +13,11 @@
     "records":[
         {
             "percent": "100",
+            "link": "https://www.youtube.com/watch?v=B7T9ioza2RI",
+            "user": "tomm"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/RDHAF_0RIEg",
             "user": "vapidf"
         },
