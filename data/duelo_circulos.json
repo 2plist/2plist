@@ -8,43 +8,43 @@
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=4b1e9ML4gh4",
+    "verificationVid": "https://youtu.be/4b1e9ML4gh4",
     "password": "159753",
     "records": [
         {
-					"percent": "100",
-					"link": "https://youtu.be/0Kz1-w8utgc",
-					"user": "tomm"
+            "percent": "100",
+            "link": "https://youtu.be/0Kz1-w8utgc",
+            "user": "tomm"
         },
         {
-                    "percent": "100",
-                    "link": "https://youtu.be/BFiA4oPRhd0",
-                    "user": "Rei"
+            "percent": "100",
+            "link": "https://youtu.be/BFiA4oPRhd0",
+            "user": "Rei"
         },
         {
-                    "percent": "100",
-                    "link": "https://youtu.be/9rwXakDScOY",
-                    "user": "vapidf"
+            "percent": "100",
+            "link": "https://youtu.be/9rwXakDScOY",
+            "user": "vapidf"
         },
         {
-                    "percent": "100",
-                    "link": "https://youtu.be/gjm2rXz2V74?si=qD-ysirx6l1LoygQ",
-                    "user": "TeamCannedBeans"
+            "percent": "100",
+            "link": "https://youtu.be/gjm2rXz2V74",
+            "user": "TeamCannedBeans"
         },
         {
-                    "percent": "100",
-                    "link": "https://www.youtube.com/watch?v=dqpo_JmXxf0",
-                    "user": "Ketchup"
+            "percent": "100",
+            "link": "https://youtu.be/dqpo_JmXxf0",
+            "user": "Ketchup"
         },
         {
-                    "percent": "100",
-                    "link": "https://youtu.be/r_08JtOd0J0",
-                    "user": "GHC"
+            "percent": "100",
+            "link": "https://youtu.be/r_08JtOd0J0",
+            "user": "GHC"
         },
         {
-                    "percent": "100",
-                    "link": "https://www.youtube.com/watch?v=kpXf9_xWWFE",
-                    "user": "Motor8"
+            "percent": "100",
+            "link": "https://youtu.be/kpXf9_xWWFE?t=226",
+            "user": "Motor8"
         }
     ]
 }
