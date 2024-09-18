@@ -11,85 +11,85 @@
     "verificationVid": "https://youtu.be/IOMOcqO9-TQ",
     "password": "000404",
     "records": [
-				{
-					"percent": "100",
-					"link": "https://youtu.be/l91oe8qO-ao",
-					"user": "Sudar"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/k8-ux5oiwy0",
-					"user": "Batle"
-				}, 
-                {
-					"percent": "100000",
-					"link": "https://www.youtube.com/watch?v=lGGSL-U4J7A",
-					"user": "John Nwaogu"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/fWYswWZGL3E",
-					"user": "Motor8"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/KJ1ok5iPYqw",
-					"user": "ATF"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/02oNrDKnPdM",
-					"user": "ZingerX"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=Tz_AYOQIhO0",
-					"user": "Ryclix"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/kfjFMEnBwjY",
-					"user": "exsii"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=d5hwoSZ_fts&t=15s",
-					"user": "Rei"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/M4D9k5L_AqA",
-					"user": "tomm"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=imFGPqmwqTA",
-					"user": "gBen"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/fTWxyTm5v6A",
-					"user": "Cr1msoN"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/4cdgNO9gE9Y",
-					"user": "GertrudeGaming"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/c6hQzDiKV5Q",
-					"user": "HG14mmar"
-                },
-                {
-					"percent": "100",
-					"link": "https://youtu.be/DacZaKAGtJI",
-					"user": "Neuron"
-                },
-                {
-					"percent": "100",
-					"link": "https://youtu.be/txqBu96Oo2c?si=aJCkQHnbJTjXzSbh",
-					"user": "Zanaiz"
-                }
+        {
+            "percent": "100",
+            "link": "https://youtu.be/l91oe8qO-ao",
+            "user": "Sudar"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/k8-ux5oiwy0",
+            "user": "Batle"
+        }, 
+        {
+            "percent": "100000",
+            "link": "https://www.youtube.com/watch?v=lGGSL-U4J7A",
+            "user": "John Nwaogu"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fWYswWZGL3E",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/KJ1ok5iPYqw",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/02oNrDKnPdM",
+            "user": "ZingerX"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Tz_AYOQIhO0",
+            "user": "Ryclix"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/kfjFMEnBwjY",
+            "user": "exsii"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/d5hwoSZ_fts?t=15",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/M4D9k5L_AqA",
+            "user": "tomm"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/imFGPqmwqTA",
+            "user": "gBen"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fTWxyTm5v6A",
+            "user": "Cr1msoN"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/4cdgNO9gE9Y",
+            "user": "GertrudeGaming"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/c6hQzDiKV5Q",
+            "user": "HG14mmar"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/DacZaKAGtJI",
+            "user": "Neuron"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/txqBu96Oo2c",
+            "user": "Zanaiz"
+        }
     ]
 }
