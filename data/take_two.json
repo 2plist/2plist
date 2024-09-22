@@ -78,8 +78,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/SGxFX5xL5TU?si=SaDDGtj62D7YTNP_",
+            "link": "https://youtu.be/SGxFX5xL5TU",
             "user": "Gummyworm41"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/bYPjZuPTNHY?t=23",
+            "user": "NotLukh"
         }
     ]
 }
