@@ -443,8 +443,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=3WQEowFgmAo",
+            "link": "https://youtu.be/3WQEowFgmAo",
             "user": "someperson255"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/z2QU6P6z9Gc",
+            "user": "LunarBong"
         }
     ]
 }
