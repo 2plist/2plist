@@ -23,8 +23,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=fiaKU-JTisA",
+            "link": "https://youtu.be/fiaKU-JTisA",
             "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/wusnu5qVfyE",
+            "user": "Lloydubs"
         }
     ]
 }
