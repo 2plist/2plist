@@ -238,17 +238,17 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=tGk4LNHArpE",
+            "link": "https://youtu.be/tGk4LNHArpE",
             "user": "Draks_Loves_U"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=8kvOBtVzF4A",
+            "link": "https://youtu.be/8kvOBtVzF4A",
             "user": "ATF"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=GXm8OTiHf7o",
+            "link": "https://youtu.be/GXm8OTiHf7o",
             "user": "mephhh"
         },
         {
@@ -260,6 +260,11 @@
             "percent": "100",
             "link": "https://youtu.be/TaG_Q279ALM",
             "user": "JoacoPe"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/SDd_WHWilJQ?t=972s",
+            "user": "exsii"
         }
     ]
 }
