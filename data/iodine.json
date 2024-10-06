@@ -223,7 +223,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=pVxUvMn7VL8",
+            "link": "https://youtu.be/pVxUvMn7VL8",
             "user": "Lloydubs"
         },
         {
@@ -235,6 +235,11 @@
             "percent": "100",
             "link": "https://youtu.be/GLsMR-jT260",
             "user": "Roocky289"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/sr8znWoqmfc?t=206",
+            "user": "kZonk"
         }
     ]
 }
