@@ -73,8 +73,13 @@
 		},
         {
             "percent": "100",
-            "link": "https://youtu.be/NDLemdjtSMs",
+            "link": "https://youtu.be/NDLemdjtSMs?t=116",
             "user": "mail"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/O7bw588YETQ",
+            "user": "kZonk"
 		}
     ]
 }
