@@ -97,28 +97,25 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (however, some hacks are allowed, such as CBF).
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. If you wish to use a custom LDM/bugfix, contact an admin
+                        Do not use major secret routes or bug routes. If you are unsure if a skip is invalid, contact an admin.
                     </p>
                     <p>
-                        Have clicks/taps in the video. Edited audio only does not count
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. For levels that are bugged, we have a channel in the discord server where we have listed every bugfix ID you'll need.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Have clicks/taps in the video. Edited audio only does not count. Handcam will only be needed for levels that have the requirement for it.
+                    </p>
+                    <p>
+                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
                     </p>
                     <p>
                         The recording must also show the level complete screen, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use major secret routes or bug routes. If you are unsure if a skip is invalid, contact an admin
-                    </p>
-                    <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level.
                     </p>
                 </div>
             </div>
