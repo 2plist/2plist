@@ -38,7 +38,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=YecaHynVfKQ",
+            "link": "https://youtu.be/YecaHynVfKQ",
             "user": "Ryclix"
         },
         {
@@ -53,7 +53,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=NUalyzb0FLU",
+            "link": "https://youtu.be/NUalyzb0FLU",
             "user": "Geiser"
         },
         {
@@ -85,6 +85,11 @@
             "percent": "100",
             "link": "https://youtu.be/TesPaF7Eyqg",
             "user": "erzor"
+        },
+        {
+            "percent": "74",
+            "link": "https://youtu.be/QRc4YVnw3gk",
+            "user": "Neuron"
         },
         {
             "percent": "61",
