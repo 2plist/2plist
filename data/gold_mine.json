@@ -43,13 +43,18 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=HRUvqTHj6-M",
+            "link": "https://youtu.be/HRUvqTHj6-M",
             "user": "gBen"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=OWnDIvgIb2w",
+            "link": "https://youtu.be/OWnDIvgIb2w",
             "user": "Magenta"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/tFZZSfg3E84?t=357",
+            "user": "conski"
         }
     ]
 }
