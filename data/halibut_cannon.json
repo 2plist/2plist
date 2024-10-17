@@ -113,7 +113,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=QyK5hfJ8EKw",
+            "link": "https://youtu.be/QyK5hfJ8EKw",
             "user": "tomm"
         },
         {
@@ -135,6 +135,11 @@
             "percent": "100",
             "link": "https://youtu.be/YqRLLyVJ0JU",
             "user": "IDiffusionI"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/0BbZmso2LEc",
+            "user": "A05Polzar"
         }
     ]
 }
