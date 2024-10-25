@@ -97,6 +97,9 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        Completion must be solo - all records must be achieved without another player.
+                    </p>
+                    <p>
                         Achieved the record without using hacks (however, some hacks are allowed, such as CBF).
                     </p>
                     <p>
