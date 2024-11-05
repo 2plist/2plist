@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/hFJ3s58CLYw",
+            "user": "SmileBullet"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/nJpYcGybJnw?t=289",
             "user": "Motor8"
         },
@@ -20,6 +25,11 @@
             "percent": "100",
             "link": "https://youtu.be/NaMWjiQWsm0",
             "user": "Sholka"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/EFKfxx7ZlhM",
+            "user": "Lenduif"
         },
         {
             "percent": "100",
@@ -65,6 +75,11 @@
             "percent": "100",
             "link": "https://youtu.be/g_Vt-D36GZ4",
             "user": "tomm"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Mpd2JSyvoJo?t=98",
+            "user": "Woachi"
         }
     ]
 }
