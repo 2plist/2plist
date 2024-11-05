@@ -173,13 +173,18 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=j_GZCY2yU18",
+            "link": "https://youtu.be/j_GZCY2yU18",
             "user": "Flakjacket"
         },
         {
             "percent": "100",
             "link": "https://youtu.be/bPOaMjR_PXk",
             "user": "a05polzar"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Mpd2JSyvoJo?t=177",
+            "user": "Woachi"
         }
     ]
 }
