@@ -1,140 +1,145 @@
 {
-			"id": "56916170",
-			"name": "Bang Gang",
-            "author": "Danzmen",
-            "verifier": "Grey749",
-			"desc": "2-player Slap Squad spinoff. Verified in Npesta's house.",
-			"percentToQualify": "59",
-			"handcam": 2,
-			"hacked": false,
-			"unrated": false,
-			"verificationVid": "https://www.youtube.com/watch?v=8CkIYWN89fM",
-            "password": "Not Copyable",
-			"records": [
-				{
-					"percent": "100",
-					"link": "https://youtu.be/_Q7Q5BiIPUg",
-					"user": "Zest"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/DAR42s36gXY",
-					"user": "ATF"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/fbwVhIXBb2A",
-					"user": "Rei"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/04Br8T-kwWQ",
-					"user": "Motor8"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/bUYtvGymU9A",
-					"user": "Batle"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/VZOiOanc-Zg",
-					"user": "Whizkid05"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/FXR-LgqiijA",
-					"user": "exsii"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/rAvenCozUEc",
-					"user": "derpyfaceddude"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/5sI1tgxlHHU",
-					"user": "Ryclix"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/NOsQYWLDW8A",
-					"user": "vitamin227"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/Eixp0u_jng0",
-					"user": "Rqd"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/HZ0kNiRLCh0",
-					"user": "ZingerX"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/xUTNfwtYY3k",
-					"user": "Nsaynchkn"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/MRAesJoWYuU",
-					"user": "conski"
-				},
-				{
-					"percent": "100",
-					"link": "https://youtu.be/wq0qphnqALQ",
-					"user": "gBen"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/mIotEaZU3ys",
-					"user": "fusion425"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/kaTuHEJjhqY",
-					"user": "zGamuT"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/W_IlQReUGzM",
-					"user": "Logan34611"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/EX5SLfCaiGY",
-					"user": "GertrudeGaming"
-				},
-                {
-					"percent": "100",
-					"link": "https://www.youtube.com/live/OSbIWzw6ybk?t=3623",
-					"user": "HG14mmar"
-				},
-                {
-					"percent": "100",
-					"link": "https://youtu.be/hMZVXDMSwFE",
-					"user": "Draks_Loves_U"
-				},
-				{
-					"percent": "88",
-					"link": "https://youtu.be/Hf-Dsb43kck",
-					"user": "Lloydubs"
-				},
-                {
-					"percent": "63",
-					"link": "https://youtu.be/gKX-cyHKhPM",
-					"user": "Cr1msoN"
-				},
-				{
-					"percent": "61",
-					"link": "https://www.youtube.com/live/qAZVDbzFQ1k?t=5813",
-					"user": "Plusxenon"
-				},
-				{
-					"percent": "59",
-					"link": "https://youtu.be/z3npx7BS_kY",
-					"user": "bloodevent"
-				}
-			]
+    "id": "56916170",
+    "name": "Bang Gang",
+    "author": "Danzmen",
+    "verifier": "Grey749",
+    "desc": "2-player Slap Squad spinoff. Verified in Npesta's house.",
+    "percentToQualify": "59",
+    "handcam": 2,
+    "hacked": false,
+    "unrated": false,
+    "verificationVid": "https://youtu.be/8CkIYWN89fM",
+    "password": "Not Copyable",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/_Q7Q5BiIPUg",
+            "user": "Zest"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/DAR42s36gXY",
+            "user": "ATF"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fbwVhIXBb2A",
+            "user": "Rei"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/04Br8T-kwWQ",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/bUYtvGymU9A",
+            "user": "Batle"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/VZOiOanc-Zg",
+            "user": "Whizkid05"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/FXR-LgqiijA",
+            "user": "exsii"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/rAvenCozUEc",
+            "user": "derpyfaceddude"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/5sI1tgxlHHU",
+            "user": "Ryclix"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/NOsQYWLDW8A",
+            "user": "vitamin227"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Eixp0u_jng0",
+            "user": "Rqd"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/HZ0kNiRLCh0",
+            "user": "ZingerX"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/xUTNfwtYY3k",
+            "user": "Nsaynchkn"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/MRAesJoWYuU",
+            "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/wq0qphnqALQ",
+            "user": "gBen"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/mIotEaZU3ys",
+            "user": "fusion425"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/kaTuHEJjhqY",
+            "user": "zGamuT"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/W_IlQReUGzM",
+            "user": "Logan34611"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/EX5SLfCaiGY",
+            "user": "GertrudeGaming"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/live/OSbIWzw6ybk?t=3623",
+            "user": "HG14mmar"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/hMZVXDMSwFE",
+            "user": "Draks_Loves_U"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/VOuHFYRl2qQ",
+            "user": "Neuron"
+        },
+        {
+            "percent": "88",
+            "link": "https://youtu.be/Hf-Dsb43kck",
+            "user": "Lloydubs"
+        },
+        {
+            "percent": "63",
+            "link": "https://youtu.be/gKX-cyHKhPM",
+            "user": "Cr1msoN"
+        },
+        {
+            "percent": "61",
+            "link": "https://www.youtube.com/live/qAZVDbzFQ1k?t=5813",
+            "user": "Plusxenon"
+        },
+        {
+            "percent": "59",
+            "link": "https://youtu.be/z3npx7BS_kY",
+            "user": "bloodevent"
+        }
+    ]
 }
