@@ -128,17 +128,17 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=pXSARP079gk",
+            "link": "https://youtu.be/pXSARP079gk",
             "user": "Craig"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=RLEyVN9Jbjs&t=1470s",
+            "link": "https://youtu.be/RLEyVN9Jbjs?t=1470",
             "user": "MeowMasterer"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=c0B742cG95g",
+            "link": "https://youtu.be/c0B742cG95g",
             "user": "Vegardo"
         },
         {
@@ -160,6 +160,11 @@
             "percent": "100",
             "link": "https://youtu.be/vXxqofnGjck",
             "user": "TheJaco9"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/Cd-g--jcEJs&t=79",
+            "user": "MaFFaKa"
         }
     ]
 }
