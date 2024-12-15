@@ -68,7 +68,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=d1CYRMiPkbk",
+            "link": "https://youtu.be/d1CYRMiPkbk",
             "user": "Nsaynchkn"
         },
         {
@@ -85,6 +85,11 @@
             "percent": "100",
             "link": "https://youtu.be/Q-rytD5E-Ko",
             "user": "erzor"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/s0TqO0X8FRQ",
+            "user": "Bluebarracks"
         }
     ]
 }
