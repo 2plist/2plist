@@ -8,13 +8,18 @@
     "handcam": 2,
     "hacked": false,
     "unrated": false,
-    "verificationVid": "https://www.youtube.com/watch?v=0AGrb-gtcUA",
+    "verificationVid": "https://youtu.be/0AGrb-gtcUA",
     "password": "",
     "records": [
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=qiYDu5K4CI0",
+            "link": "https://youtu.be/qiYDu5K4CI0",
             "user": "Cr1msoN"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/09lgybeoipE",
+            "user": "Batle"
         }
     ]
 }
