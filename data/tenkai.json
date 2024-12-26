@@ -13,13 +13,18 @@
     "records": [
         {
             "percent": 100,
-            "link": "https://www.youtube.com/watch?v=-WtAG3To_io",
+            "link": "https://youtu.be/-WtAG3To_io",
             "user": "conski"
         },
         {
             "percent": 100,
-            "link": "https://www.youtube.com/watch?v=EiF_4-4p08E",
+            "link": "https://youtu.be/EiF_4-4p08E",
             "user": "Whizkid05"
+        },
+        {
+            "percent": 100,
+            "link": "https://youtu.be/de-gjXg7khw",
+            "user": "GuitGuit"
         }
     ]
 }
