@@ -1,3 +1,4 @@
+
 import { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
@@ -25,9 +26,8 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
-                            <p v class="type-label-lg">#{{ i + 1 }}</p>
-                            <! -- <p v-if="i + 1 <= 75" class="type-label-lg">#{{ i + 1 }}</p> -->
-                            <! -- <p v-else class="type-label-lg" style="color: gray"> Legay </p> -->
+                            <p v-if="i + 1 <= 75" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-else class="type-label-lg" style="color: gray"> Legacy </p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
                             <button @click="selected = i">
