@@ -158,8 +158,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=XD_jv3_Wppg",
+            "link": "https://youtu.be/XD_jv3_Wppg",
             "user": "Gamerdude."
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/3d4dtN4gUgc?t=180",
+            "user": "JuanGPe"
         }
     ]
 }
