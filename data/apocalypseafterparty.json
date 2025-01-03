@@ -48,27 +48,27 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=ZCwgCuj8D54",
+            "link": "https://youtu.be/ZCwgCuj8D54",
             "user": "Ryclix"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=q4dolouqRXQ",
+            "link": "https://youtu.be/q4dolouqRXQ",
             "user": "Ky"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/boWdzZOs6vQ?si=lO81ftHgsybhhTSZ",
+            "link": "https://youtu.be/boWdzZOs6vQ",
             "user": "kath"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=FyqqQ_SG15E",
+            "link": "https://youtu.be/FyqqQ_SG15E",
             "user": "Rei"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/wy584V42fL4?si=FX89B1XQnNDirQ72",
+            "link": "https://youtu.be/wy584V42fL4",
             "user": "Th13teen"
         },
         {
@@ -78,17 +78,17 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=40zHIcoQoq4",
+            "link": "https://youtu.be/40zHIcoQoq4",
             "user": "gBen"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=8fpstsCNyV0",
+            "link": "https://youtu.be/8fpstsCNyV0",
             "user": "Geiser"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/whivvsrEiNM?si=pbeFWxrq8kx7edcd",
+            "link": "https://youtu.be/whivvsrEiNM",
             "user": "Cr1msoN"
         },
         {
@@ -100,6 +100,11 @@
             "percent": "100",
             "link": "https://youtu.be/bDHam20eBAE",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/iieQ3xpHVsU",
+            "user": "Maple"
         }
     ]
 }
