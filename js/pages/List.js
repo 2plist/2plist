@@ -104,6 +104,12 @@ export default {
                         Achieved the record without using hacks (however, some hacks are allowed, such as CBF).
                     </p>
                     <p>
+                        Do not bind one key to both inputs (meaning you can't have one key that jumps with player 1 and player 2. Also do not have a custom keycap that covers two keys)
+                    </p>
+                    <p>
+                        Do not use more than 4 keys bound to inputs in a completion. For example, you can have two keys bound to player 1 and two keys bound to player 2.
+                    </p>
+                    <p>
                         Do not use major secret routes or bug routes. If you are unsure if a skip is invalid, contact an admin.
                     </p>
                     <p>
