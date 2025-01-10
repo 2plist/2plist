@@ -104,6 +104,9 @@ export default {
                         Achieved the record without using hacks (however, some hacks are allowed, such as CBF).
                     </p>
                     <p>
+                        Switching inputs or keybinds mid-attempt is allowed.
+                    </p>
+                    <p>
                         Do not bind one key to both inputs (meaning you can't have one key that jumps with player 1 and player 2. Also do not have a custom keycap that covers two keys)
                     </p>
                     <p>
