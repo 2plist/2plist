@@ -2,15 +2,20 @@
     "id": "38450170",
     "name": "The Twin Parable",
     "author": "trueScript",
-    "verifier": "gBen",
+    "verifier": "daisy40",
     "desc": "2p-insane demon, collab with Lionardo. Reupload, now its possible. New pass is 578732",
     "percentToQualify": "100",
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://youtu.be/fdHhar0BQcw",
+    "verificationVid": "https://youtu.be/nI8EYmZoZ3Q",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fdHhar0BQcw",
+            "user": "gBen"
+        },
         {
             "percent": "100",
             "link": "https://youtu.be/vNiMlzoGADs?t=680",
