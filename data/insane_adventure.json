@@ -1,24 +1,29 @@
 {
     "id": "70724935",
     "name": "Insane Adventure",
-    "author": "Nikitakhokrin",
-    "verifier": "Motor8",
+    "author": "Nikitakhokhrin",
+    "verifier": "Nikitakhokhrin",
     "desc": "The third level is ready. I spent a whopping 72,000 objects on it. Hope you're ready for 2-player mode!?",
     "percentToQualify": "100",
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=onB6bo1WcxQ&t=7s",
+    "verificationVid": "https://youtu.be/Ic_6RP08Uuk",
     "password": "Not Copyable",
     "records": [
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=IZNUxDi10MQ",
+            "link": "https://youtu.be/onB6bo1WcxQ?t=4",
+            "user": "Motor8"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/IZNUxDi10MQ",
             "user": "Rei"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=7wmxQRDx0ZU&t=2s",
+            "link": "https://youtu.be/7wmxQRDx0ZU",
             "user": "Ink"
         },
         {
@@ -28,12 +33,12 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=GkxSWN9nUq4",
+            "link": "https://youtu.be/GkxSWN9nUq4",
             "user": "derpyfaceddude"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=ol4FB_9PM-Y",
+            "link": "https://youtu.be/ol4FB_9PM-Y",
             "user": "tomm"
         },
         {
