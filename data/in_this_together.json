@@ -8,42 +8,42 @@
     "handcam": 1,
     "hacked": false,
     "unrated": false,
-    "verificationVid": "https://www.youtube.com/watch?v=y_cfF_KyZ-M",
+    "verificationVid": "https://youtu.be/y_cfF_KyZ-M",
     "password": "",
     "records": [
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=C3_rbHi59C4&t=220",
+            "link": "https://youtu.be/C3_rbHi59C4?t=219",
             "user": "Motor8"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=dd4vgFXMiiY",
+            "link": "https://youtu.be/dd4vgFXMiiY",
             "user": "ThosePixels"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=sQmQjVBcsOY",
+            "link": "https://youtu.be/sQmQjVBcsOY",
             "user": "Geiser"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=OPRR-bTLxfk",
+            "link": "https://youtu.be/OPRR-bTLxfk",
             "user": "Rei"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/yMOb5LkeQvs?si=YPkLYdLjMCuSGB8X",
+            "link": "https://youtu.be/yMOb5LkeQvs",
             "user": "Cr1msoN"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=VPFW_c3qhyI",
+            "link": "https://youtu.be/VPFW_c3qhyI",
             "user": "derpyfaceddude"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=1H-3XP6tY6I",
+            "link": "https://youtu.be/1H-3XP6tY6I",
             "user": "gBen"
         },
         {
@@ -53,13 +53,18 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=7_H8lYTEico",
+            "link": "https://youtu.be/7_H8lYTEico",
             "user": "ATF"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=IgX40BeQH_8",
+            "link": "https://youtu.be/IgX40BeQH_8",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/1l-6j5gapQE",
+            "user": "Neuron"
         }
     ]
 }
