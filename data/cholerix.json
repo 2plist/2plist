@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/MQidfJVEg7Q",
+            "user": "TheJaco9"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/1OnVI5IBaiQ",
             "user": "Zest"
         },
@@ -68,7 +73,7 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/C3B8ARuZSP0?si=Jarm-l16O2yIDt-Z",
+            "link": "https://youtu.be/C3B8ARuZSP0",
             "user": "Zeronium"
         },
         {
@@ -83,7 +88,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=cDmdNQizV_k",
+            "link": "https://youtu.be/cDmdNQizV_k",
             "user": "Th13teen"
         },
         {
@@ -98,12 +103,12 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/Uy824YlnTUQ?si=H5j0JYuDwcax5r5b",
+            "link": "https://youtu.be/Uy824YlnTUQ",
             "user": "Rei"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=O_LDBWNX130",
+            "link": "https://youtu.be/O_LDBWNX130",
             "user": "derpyfaceddude"
         }
     ]
