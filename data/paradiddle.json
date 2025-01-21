@@ -98,13 +98,18 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=WIi-t_lrZBg",
+            "link": "https://youtu.be/WIi-t_lrZBg",
             "user": "Izzeee"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=5zORlZJSuKw",
+            "link": "https://youtu.be/5zORlZJSuKw",
             "user": "Gamerdude."
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/zvJxslxN-Ks",
+            "user": "Danieljgd"
         }
     ]
 }
