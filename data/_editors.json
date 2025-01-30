@@ -15,9 +15,9 @@
         "link": "https://www.youtube.com/channel/UClgIANE-cdR16TAT1ly9UBw"
     },
     {
-        "role": "helper",
-        "name": "tomm",
-        "link": "https://www.youtube.com/channel/UCObExuzSHQ7Y6PK78fpos_Q"
+        "role": "admin",
+        "name": "Graydient7",
+        "link": "https://www.youtube.com/channel/UCUfKLS6nwu1wRWFIpzUIOKQ"
     },
     {
         "role": "helper",
@@ -31,18 +31,28 @@
     },
     {
         "role": "helper",
+        "name": "erzor",
+        "link": "https://www.youtube.com/@erzor9689"
+    },
+    {
+        "role": "helper",
         "name": "gdbatle1",
         "link": "https://www.youtube.com/channel/UCSXd6Nc0CeFNpOLP7JvKJnQ"
     },
     {
         "role": "helper",
-        "name": "Graydient7",
-        "link": "https://www.youtube.com/channel/UCUfKLS6nwu1wRWFIpzUIOKQ"
+        "name": "Ketchup",
+        "link": "https://www.youtube.com/channel/UCdzFnJqHSRcjbjUBBV102Uw"
     },
     {
         "role": "helper",
-        "name": "Ketchup",
-        "link": "https://www.youtube.com/channel/UCdzFnJqHSRcjbjUBBV102Uw"
+        "name": "tomm",
+        "link": "https://www.youtube.com/channel/UCObExuzSHQ7Y6PK78fpos_Q"
+    },
+    {
+        "role": "helper",
+        "name": "vapidf",
+        "link": "https://www.youtube.com/@vapidf"
     },
     {
         "role": "dev",
