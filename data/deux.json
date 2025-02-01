@@ -8,7 +8,7 @@
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=FHANy_GarvE",
+    "verificationVid": "https://youtu.be/FHANy_GarvE",
     "password": "Not Copyable",
     "records": [
         {
@@ -23,12 +23,12 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=fiaKU-JTisA",
+            "link": "https://youtu.be/fiaKU-JTisA?t=70",
             "user": "conski"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=5cquJpNBLI4",
+            "link": "https://youtu.be/5cquJpNBLI4",
             "user": "GHC"
         },
         {
@@ -55,6 +55,11 @@
             "percent": "100",
             "link": "https://youtu.be/zlx-pxm_ePQ",
             "user": "drige"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/zdr3dK7vbeI?t=288",
+            "user": "someperson255"
         }
     ]
 }
