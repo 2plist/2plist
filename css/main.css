@@ -1,34 +1,27 @@
 :root {
-    --color-background: white;
-    --color-on-background: black;
-    --color-background-hover: #eee;
-    --color-on-background-hover: black;
-    --color-primary: black;
-    --color-on-primary: white;
-    --color-error: #de0000;
-    --color-on-error: white;
-}
+    --color-background: rgb(25, 29, 26);
+    --color-on-background: rgb(150, 225, 178);
+    --color-background-button: rgb(8,15,10);
+    --color-on-background-hover: rgb(66, 200, 195);
+    --color-error: rgb(216,101,86);
+    --color-on-error: rgb(255, 255, 255);
+    --color-section-background: rgb(20, 23, 21);
+    --gradient-color-1-40: rgba(66,200,195,0.4);
+    --gradient-color-2-40: rgba(150,225,178,0.4);
+    --color-shadow: rgba(150, 225, 178, 0.1);
+    --scroll-bg-color: rgb(10,13,12);
+    --img-filter: invert(90%) sepia(15%) saturate(839%) hue-rotate(80deg) brightness(93%) contrast(88%);
 
-main.dark,
-header.dark {
-    color-scheme: dark;
-    --color-background: #1c1b1f;
-    --color-on-background: white;
-    --color-background-hover: #27262c;
-    --color-on-background-hover: white;
-    --color-primary: #5d5e5e;
-    --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
-    --color-error: #de0000;
-    --color-on-error: white;
+    --horizontal-gradient: linear-gradient(90deg, var(--gradient-color-1-40) 0%, var(--color-on-background) 50%, var(--gradient-color-1-40) 100%);
+    --vertical-gradient: linear-gradient(180deg, var(--color-on-background) 0%, var(--color-on-background-hover) 100%);
+    --text-gradient:  linear-gradient(180deg, var(--color-on-background) 30%, var(--color-on-background-hover) 100%);
+    --active-linear-gradient: linear-gradient(180deg, var(--gradient-color-2-40) 0%, var(--gradient-color-1-40) 100%), black;
 }
-
 html,
 body {
     height: 100%;
-}
-
-body {
+    overflow: hidden;
+    background-color: var(--color-background);
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -39,25 +32,29 @@ main {
     background-color: var(--color-background);
     color: var(--color-on-background);
     display: grid;
-    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
-            16em,
-            1fr
-        );
+    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr);
     column-gap: 2rem;
 }
-
+main.page-home {
+    grid-template-columns: minmax(16rem, 3fr) minmax(16rem, 1fr);
+}
+header img {
+    max-height: 5.5rem;
+    filter: drop-shadow(0 0 20px var(--color-shadow));
+    height: 88px;
+}
+img#discord {
+    width: 76px;
+}
+img#theme{
+    width: 56px;
+}
 header {
     display: flex;
-    padding-inline: calc(25vw - 10rem);
-    height: 4rem;
-    background-color: var(--color-primary);
-    color: var(--color-on-primary);
-}
-@media screen and (min-width: 1366px) {
-    header {
-        display: grid;
-        padding-inline: 0;
-    }
+    flex-direction: column;
+    padding-inline: calc(2vw);
+    background-color: var(--color-background);
+    color: var(--color-on-background);
 }
 header .logo {
     justify-self: end;
@@ -69,18 +66,18 @@ header .logo {
 header .nav {
     flex: 1;
 }
-
 main {
     height: 0;
     flex: 1;
     display: grid;
     grid-template-rows: minmax(0, 1fr);
-    column-gap: 2rem;
+    column-gap: 0;
+    margin-top: -1px;
 }
-main > div {
+.list-content, .level-content{
+    
     overflow-y: auto;
 }
-
 .spinner {
     display: flex;
     align-items: center;
@@ -93,4 +90,87 @@ input[type="checkbox"] {
     width: 1.25rem;
     cursor: pointer;
     margin: 0;
+}
+.divider {
+    padding: 0px;
+    background: var(--horizontal-gradient);
+    border-radius: 7px;
+    height: 5px;
+    width: 100%;
+    border: none;
+    margin: 0px 0px 5px 0px;
+}
+
+html, body, .list-container {
+    /* scrollbar-width: thin;
+    scrollbar-color: var(--color-on-background) var(--scroll-bg-color); */
+}
+/* Webkit Scrollbar Styles */
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: var(--scroll-bg-color);
+    border: 3px solid transparent; /* "Pads" the scrollbar track */
+    border-radius: 10px;
+    height: calc(100% - 10px);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--color-on-background);
+    border-radius: 10px;
+    border: 2px solid var(--scroll-bg-color);
+    transition: background-color 1s;
+}
+
+::-webkit-scrollbar-thumb:vertical:hover {
+    background-color: var(--color-on-background-hover);
+}
+
+/* Remove scrollbar arrows in Webkit */
+::-webkit-scrollbar-button {
+    display: none;
+}
+@media only screen and (max-width: 1025px) {
+    main {
+        grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 1.3fr);
+    }
+}
+
+.wrapper-theme:has(.theme-container) {
+    position: absolute;
+    right: 0;
+    background: var(--vertical-gradient);
+    padding: 0 3px;
+    border-radius: 20px;
+    margin: 1rem 12rem;
+    z-index: 1;
+    max-height: 0;
+    transition: max-height 0.5s, padding 0.5s; 
+    overflow: hidden;
+}
+
+.theme-container {
+    background: var(--scroll-bg-color);
+    padding: 1rem;
+    display: flex;
+    border-radius: 18px;
+    gap: 20px;
+    height: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    opacity : 0;
+    transition: opacity 0.5s;
+}
+.theme-container .ball {
+    background: var(--vertical-gradient);
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    cursor: pointer;
+    border: 5px solid;
+}
+p.nav__tab{
+    cursor: pointer;
 }

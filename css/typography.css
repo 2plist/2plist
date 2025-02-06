@@ -2,10 +2,9 @@ h1,
 .type-h1,
 .type-headline-lg {
     font-family: "Lexend Deca", sans-serif;
-    font-size: 51.4285714286px;
-    line-height: 52px;
-    font-weight: 700;
-    letter-spacing: -2px;
+    font-size: 80px;
+    line-height: 81px;
+    letter-spacing: -1.5;
     -webkit-font-smoothing: subpixel-antialiased;
 }
 h1::before,
@@ -155,7 +154,8 @@ input[type="text"],
 input[type="number"],
 .type-label-lg {
     font-family: "Lexend Deca", sans-serif;
-    font-size: 17.1428571429px;
+    font-size: clamp(23px, 1.6vw, 30px) !important;
+    white-space: nowrap;
     line-height: 20px;
     font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
@@ -213,7 +213,6 @@ p,
     font-size: 17.1428571429px;
     line-height: 28px;
     font-weight: 500;
-    -webkit-font-smoothing: subpixel-antialiased;
 }
 p::before,
 .type-body::before {
@@ -226,4 +225,83 @@ p::after,
     content: "";
     margin-top: -0.4416666667em;
     display: table;
+}
+.meta h3, .home-container h3 {
+    font-size: 3rem;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    font-weight: 500;
+    line-height: 5.1rem;
+}
+
+.changelog-container h3{
+    padding-top: 0;
+}
+.text-container p {
+    margin-top: 30px;
+}
+
+.text-container h1 {
+    display: block;
+    padding: 1rem;
+}
+
+.gradient-text {
+    
+    background: var(--color-on-background);
+    background: var(--text-gradient);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.changelog li p {
+    font-size: 1.1rem;
+    line-height: normal;
+    font-weight: 200;
+}
+.meta .type-label-lg.link {
+    font-size: 2rem !important;
+    font-weight: 200;
+}
+.level h5 {
+    font-size: 30px;
+    font-weight: 200;
+    line-height: normal;
+    text-transform: unset;
+}
+a.type-label-lg {
+    font-size: 25px !important;
+    font-weight: 200;
+}
+h5.handcam {
+    text-align: center;
+}
+table.table, table.records {
+    font-size: 10px;
+}
+.level h2{
+    font-size: 40px;
+}
+.results p {
+    font-size: 30px;
+    line-height: 50px;
+}
+.rank .type-label-lg, .score .type-label-lg, .percent p {
+    font-size: 25px !important;
+}
+@media only screen and (max-width: 1025px) {
+
+    .text-container p {
+        font-size: 35px;
+        line-height: normal;
+    }
+    .changelog li p {
+        font-size: 12px;
+    }
+    .text-container h1{
+        font-size: 75px;
+    }
+    .meta .type-label-lg.link {
+        font-size: 20px !important;
+    }
 }

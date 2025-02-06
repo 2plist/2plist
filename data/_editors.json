@@ -11,11 +11,6 @@
     },
     {
         "role": "admin",
-        "name": "gBen",
-        "link": "https://www.youtube.com/channel/UClgIANE-cdR16TAT1ly9UBw"
-    },
-    {
-        "role": "admin",
         "name": "Graydient7",
         "link": "https://www.youtube.com/channel/UCUfKLS6nwu1wRWFIpzUIOKQ"
     },
@@ -31,8 +26,8 @@
     },
     {
         "role": "helper",
-        "name": "erzor",
-        "link": "https://www.youtube.com/channel/UCZO3TzdzwGAoRYmPmZ39dIA"
+        "name": "gBen",
+        "link": "https://www.youtube.com/channel/UClgIANE-cdR16TAT1ly9UBw"
     },
     {
         "role": "helper",
@@ -58,5 +53,15 @@
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/channel/UCg_r2c6sLRfiMcUSiRQHr8Q"
+    },
+    {
+        "role": "dev",
+        "name": "Chillsy",
+        "link": "https://www.youtube.com/@Chillsy"
+    },
+    {
+        "role": "artist",
+        "name": "ThosePixels",
+        "link": "https://www.youtube.com/channel/UC9Q6b9Z1Jj6Z0JZg1X1Z9jw"
     }
 ]

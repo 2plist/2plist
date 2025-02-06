@@ -1,0 +1,41 @@
+.page-submit {
+    grid-template-columns: auto;
+    padding: 0 10vw;
+}
+
+.submit-container {
+    text-align: left;
+}
+
+.page-submit h1 {
+    display: block;
+    padding: 30px 0;
+}
+.page-submit p {
+    line-height: 22px;
+    margin: 20px 0;
+}
+
+.page-submit .submit-container {
+    margin: 1rem;
+    padding: 1rem;
+    background: var(--color-section-background);
+    border-radius: 20px;
+    position: relative;
+}
+.page-submit .btn a {
+    font-size: 50px !important;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.page-submit .wrapper{
+    position: absolute;
+    left: 1rem;
+    bottom: 1rem;
+}
+@media only screen and (max-width: 1025px) {
+    main.page-roulette {
+        grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr)!important;
+    }
+}

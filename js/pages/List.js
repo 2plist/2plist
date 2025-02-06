@@ -1,8 +1,7 @@
-
 import { store } from "../main.js";
 import { embed } from "../util.js";
 import { score } from "../score.js";
-import { fetchEditors, fetchList } from "../content.js";
+import { fetchEditors, fetchList, fetchThemes, changeTheme } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
@@ -22,47 +21,64 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-list">
+                <div class="wrapper-theme">
+        <div class="theme-container">
+        <div class="ball" v-for="theme in themes" :key="theme.name" @click="changeTheme(theme.name)" :style="{ background: theme['color-on-background'], borderColor: theme['color-on-background-hover'] }"></div>
+        </div>
+        </div>
             <div class="list-container">
-                <table class="list" v-if="list">
-                    <tr v-for="([level, err], i) in list">
-                        <td class="rank">
-                            <p v-if="i + 1 <= 75" class="type-label-lg">#{{ i + 1 }}</p>
-                            <p v-else class="type-label-lg" style="color: gray"> Legacy </p>
-                        </td>
-                        <td class="level" :class="{ 'active': selected == i, 'error': !level }">
-                            <button @click="selected = i">
-                                <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}<img src="assets/unrated.svg" alt="unrated" v-if="level?.unrated" style="height: 1.1rem; display: inline;margin-left:0.5rem"></span>
-                                
-                            </button>
-                        </td>
-                    </tr>
-                </table>
+                <div class="list-content">
+                    <table class="list" v-if="list">
+                        <tr class="level" v-for="([level, err], i) in list" :class="{ 'active': selected == i, 'error': !level }" >
+                        <div class="legacy" v-if="i === 75">
+                        <p class="type-label-lg">Legacy List</p>
+                        </div>
+                            <div class="wrapper" @click="selected = i">
+                            <td class="info">
+                                <p v-if="i + 1 <= 75" class="type-label-lg">#{{ i + 1 }}</p>
+                                <p v-else class="type-label-lg" style="color: var(--gradient-color-1-40)">#{{ i + 1 }}</p>
+                                    <span class="type-label-lg">{{ level?.name || \`Error (\${err}.json)\` }}<img src="assets/unrated.png" title="Unrated" alt="unrated" v-if="level?.unrated"></span>
+                            </td>
+                            </div>
+                        </tr>
+                    </table>
+                </div>
             </div>
             <div class="level-container">
+                <div class="level-content">
                 <div class="level" v-if="level">
-                    <h1>{{ level.name }} <img src="assets/unrated.svg" alt="unrated" v-if="level.unrated" style="height:3rem;display:inline;margin-left:1rem;"></h1>
+                    <h1>
+                    {{ level.name }} 
+                     <div class="level-stats">
+                    <img src="assets/unrated.png" title="Unrated" alt="unrated" v-if="level.unrated" style="height:3rem;">
+                    <p style="margin-left: auto;">{{ score(selected + 1, 100, level.percentToQualify) }} points</p>
+                    </div>
+                    </h1>
+                    <hr class="divider">
                     <LevelAuthors :author="level.author" :verifier="level.verifier"></LevelAuthors>
-                    <h5 style="font-weight: normal;text-transform: none">{{ level.desc }}</h5>
+                    <p>{{ level.desc }}</p>
+                    <div class="center-text-video">
+                    <div class="wrapper">
                     <iframe class="video" id="videoframe" :src="video" frameborder="0"></iframe>
+                    </div>
                     <ul class="stats">
                         <li>
-                            <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
-                        </li>
-                        <li>
                             <div class="type-title-sm">ID</div>
-                            <p>{{ level.id }}</p>
+                            <h5>{{ level.id }}</h5>
                         </li>
                         <li>
                             <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <h5>{{ level.password || 'Free to Copy' }}</h5>
                         </li>
                     </ul>
+                    <h5 class="handcam"><strong>Handcam is {{['not needed', 'recommended', 'necessary'][level.handcam]}} for this level.</strong></h5>
+                    </div>
+                    <div class="divider"></div>
+
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 25"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 75"><strong>100%</strong> or better to qualify</p>
-                    <p v-else>This level does not accept new records.</p>
-                    <p><strong>Handcam is {{['not needed', 'recommended', 'necessary'][level.handcam]}} for this level.</strong></p>
+                    <h5 v-if="selected + 1 <= 25"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</h5>
+                    <h5 v-else-if="selected +1 <= 75"><strong>100%</strong> or better to qualify</h5>
+                    <h5 v-else>This level does not accept new records.</h5>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
                             <td class="percent">
@@ -74,74 +90,23 @@ export default {
                         </tr>
                     </table>
                 </div>
+                </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
                     <p>(ノಠ益ಠ)ノ彡┻━┻</p>
                 </div>
             </div>
-            <div class="meta-container">
-                <div class="meta">
-                    <div class="errors" v-show="errors.length > 0">
-                        <p class="error" v-for="error of errors">{{ error }}</p>
-                    </div>
-                    <div class="og">
-                        <p class="type-label-md">List Template by <a href="https://tsl.pages.dev/" target="_blank">The Shitty List</a></p>
-                    </div>
-                    <template v-if="editors">
-                        <h3>List Editors</h3>
-                        <ol class="editors">
-                            <li v-for="editor in editors">
-                                <img :src="\`assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
-                                <a v-if="editor.link" class="type-label-lg link" target="_blank" :href="editor.link">{{ editor.name }}</a>
-                                <p v-else>{{ editor.name }}</p>
-                            </li>
-                        </ol>
-                    </template>
-                    <h3>Submission Requirements</h3>
-                    <p>
-                        Completion must be solo - all records must be achieved without another player.
-                    </p>
-                    <p>
-                        Achieved the record without using hacks (however, some hacks are allowed, such as CBF).
-                    </p>
-                    <p>
-                        Switching inputs or keybinds mid-attempt is allowed.
-                    </p>
-                    <p>
-                        Do not bind one key to both inputs (meaning you can't have one key that jumps with player 1 and player 2. Also do not have a custom keycap that covers two keys)
-                    </p>
-                    <p>
-                        Do not use more than 4 keys bound to inputs in a completion. For example, you can have two keys bound to player 1 and two keys bound to player 2.
-                    </p>
-                    <p>
-                        Do not use major secret routes or bug routes. If you are unsure if a skip is invalid, contact an admin.
-                    </p>
-                    <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record. For levels that are bugged, we have a channel in the discord server where we have listed every bugfix ID you'll need.
-                    </p>
-                    <p>
-                        Have clicks/taps in the video. Edited audio only does not count. Handcam will only be needed for levels that have the requirement for it.
-                    </p>
-                    <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this.
-                    </p>
-                    <p>
-                        The recording must also show the level complete screen, or the completion will be invalidated.
-                    </p>
-                    <p>
-                        Once a level falls onto the Legacy List (#76 and below), we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level.
-                    </p>
-                </div>
-            </div>
+
         </main>
     `,
     data: () => ({
         list: [],
         editors: [],
+        themes: [],
         loading: true,
         selected: 0,
         errors: [],
         roleIconMap,
-        store
+        store,
     }),
     computed: {
         level() {
@@ -155,6 +120,7 @@ export default {
         // Hide loading spinner
         this.list = await fetchList();
         this.editors = await fetchEditors();
+        this.themes = await fetchThemes();
 
         // Error handling
         if (!this.list) {
@@ -179,5 +145,11 @@ export default {
     methods: {
         embed,
         score,
+        changeTheme(themeName) {
+            const themeStyles = this.themes.find(t => t.name === themeName);
+            if (themeStyles) {
+                changeTheme(themeStyles);
+            }
+        },
     },
 };
