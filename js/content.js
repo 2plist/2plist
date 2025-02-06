@@ -45,7 +45,26 @@ export async function fetchEditors() {
         return null;
     }
 }
-
+export async function fetchChangelog() {
+    try {
+        const changelogResults = await fetch(`${dir}/_changelog.json`);
+        const changelog = await changelogResults.json();
+        changelog.forEach((entry) => {
+            const [day, month, year] = entry.date.split('-').map(Number);
+            entry.dateObject = new Date(year, month - 1, day);
+        });
+        
+        changelog.sort((a, b) => b.dateObject - a.dateObject);
+        
+        changelog.forEach((entry) => {
+            entry.date = entry.dateObject.toLocaleDateString();
+            delete entry.dateObject;
+        });
+        return changelog;
+    } catch {
+        return null;
+    }
+}
 export async function fetchLeaderboard() {
     const list = await fetchList();
 
@@ -121,4 +140,78 @@ export async function fetchLeaderboard() {
 
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
+}
+export async function fetchThemes() {
+    try {
+        const response = await fetch(`${dir}/_themes.json`);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const themes = await response.json();
+        return themes.slice(1);
+    } catch (error) {
+        console.error('Failed to fetch themes:', error);
+        return [];
+    }
+}
+export function changeTheme(themeStyles) {
+    try {
+        if (themeStyles) {
+            Object.keys(themeStyles).forEach(key => {
+                if (key !== 'name') {
+                    document.documentElement.style.setProperty(`--${key}`, themeStyles[key]);
+                }
+            });
+
+            // Replace images if the theme includes them
+            if (themeStyles.logo) {
+                if (themeStyles.logo.includes('http')) {
+                    document.getElementById('logo').src = themeStyles.logo;
+                }
+                else{
+                document.getElementById('logo').src = `/assets/themes/${themeStyles.logo}`;
+                }
+            }
+            if (themeStyles.discord) {
+                if (themeStyles.discord.includes('http')) {
+                    document.getElementById('discord').src = themeStyles.discord;
+                }
+                else{
+                document.getElementById('discord').src = `/assets/themes/${themeStyles.discord}`;
+                }
+            }
+            if (themeStyles.theme) {
+                if (themeStyles.theme.includes('http')) {
+                    document.getElementById('theme').src = themeStyles.theme;
+                }
+                else{
+                document.getElementById('theme').src = `/assets/themes/${themeStyles.theme}`;
+                }
+            }
+
+            localStorage.setItem('currentTheme', JSON.stringify(themeStyles));
+        }
+    } catch (error) {
+        console.error(`Failed to apply theme: ${error}`);
+    }
+}
+
+export function secretTheme() {
+    let secret = 'buhislife';
+    let input = '';
+    const wrapper = document.querySelector('.wrapper-theme:has(.theme-container)');
+    document.addEventListener('keydown', (event) => {
+        input += event.key;
+        if  (event.key === 'Escape') {
+            input = '';
+        }
+        if (input === secret) {
+            changeTheme({
+                "name": "Buh",
+        "logo": "https://cdn.7tv.app/emote/01H4945CB0000ESPTK3C1A5RVR/4x.avif",
+        "discord": "https://cdn.7tv.app/emote/01GZYJWZ6R000D81ZGQH0KPFRP/4x.avif",
+        "theme": "https://cdn.7tv.app/emote/01G61H421G0006Z5WTGWA7994Q/4x.avif"
+            });
+        }
+    });
 }

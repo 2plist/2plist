@@ -1,0 +1,80 @@
+
+
+
+[
+    {
+        "_comment": "use https://angel-rs.github.io/css-color-filter-generator/ to generate the filter needed for the theme"
+    },
+    {
+        "name": "Default",
+        "color-background": "rgb(25, 29, 26)",
+        "color-on-background": "rgb(150, 225, 178)",
+        "color-background-button": "rgb(8, 15, 10)",
+        "color-on-background-hover": "rgb(66, 181, 200)",
+        "color-error": "rgb(216, 101, 86)",
+        "color-on-error": "rgb(255, 255, 255)",
+        "color-section-background": "rgb(20, 23, 21)",
+        "gradient-color-1-40": "rgba(66, 200, 195, 0.4)",
+        "gradient-color-2-40": "rgba(150, 225, 178, 0.4)",
+        "color-shadow": "rgba(0, 0, 0, 0.8)",
+        "scroll-bg-color": "rgb(10, 13, 12)",
+        "img-filter": "invert(90%) sepia(15%) saturate(839%) hue-rotate(80deg) brightness(93%) contrast(88%)",
+        "logo": "2p logo green.png",
+        "discord": "discord green.png",
+        "theme": "theme green.png"
+    },
+    {
+        "name": "Purple",
+        "color-background": "rgb(22, 20, 30)",
+        "color-on-background": "rgb(195, 150, 225)",
+        "color-background-button": "rgb(9, 8, 15)",
+        "color-on-background-hover": "rgb(76, 66, 200)",
+        "color-error": "rgb(255, 0, 255)",
+        "color-on-error": "rgb(255, 255, 255)",
+        "color-section-background": "rgb(17, 16, 24)",
+        "gradient-color-1-40": "rgba(83, 66, 200, 0.4)",
+        "gradient-color-2-40": "rgba(159, 150, 225, 0.4)",
+        "color-shadow": "rgba(0, 0, 0, 0.8)",
+        "scroll-bg-color": "rgb(11, 10, 13)",
+        "img-filter": "invert(50%) sepia(100%) saturate(300%) hue-rotate(220deg) brightness(100%) contrast(100%)",
+        "logo": "2p logo purple.png",
+        "discord": "discord purple.png",
+        "theme": "theme purple.png"
+    },
+    {
+        "name": "Blue",
+        "color-background": "rgb(21, 20, 33)",
+        "color-on-background": "rgb(150, 186, 225)",
+        "color-background-button": "rgb(10, 8, 15)",
+        "color-on-background-hover": "rgb(66, 87, 200)",
+        "color-error": "rgb(0, 0, 255)",
+        "color-on-error": "rgb(255, 255, 255)",
+        "color-section-background": "rgb(17, 16, 25)",
+        "gradient-color-1-40": "rgba(51, 72, 188, 0.4)",
+        "gradient-color-2-40": "rgba(152, 150, 225, 0.4)",
+        "color-shadow": "rgba(0, 0, 0, 0.8)",
+        "scroll-bg-color": "rgb(10, 10, 13)",
+        "img-filter": "invert(90%) sepia(15%) saturate(1839%) hue-rotate(170deg) brightness(83%) contrast(88%)",
+        "logo": "2p logo blue.png",
+        "discord": "discord blue.png",
+        "theme": "theme blue.png"
+    },
+    {
+        "name": "Gold",
+        "color-background": "rgb(31, 22, 20)",
+        "color-on-background": "rgb(225, 210, 150)",
+        "color-background-button": "rgb(15, 9, 8)",
+        "color-on-background-hover": "rgb(200, 116, 66)",
+        "color-error": "rgb(0, 255, 0)",
+        "color-on-error": "rgb(255, 255, 255)",
+        "color-section-background": "rgb(22, 15, 14)",
+        "gradient-color-1-40": "rgba(197, 137, 84, 0.4)",
+        "gradient-color-2-40": "rgba(212, 182, 66, 0.4)",
+        "color-shadow": "rgba(255, 237, 184, 0.15)",
+        "scroll-bg-color": "rgb(13, 10, 10)",
+        "img-filter": "invert(50%) sepia(100%) saturate(500%) hue-rotate(325deg) brightness(190%) contrast(100%)",
+        "logo": "2p logo gold.png",
+        "discord": "discord gold.png",
+        "theme": "theme gold.png"
+    }
+]

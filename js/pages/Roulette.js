@@ -1,4 +1,4 @@
-import { fetchList } from '../content.js';
+import { fetchList, fetchThemes, changeTheme } from '../content.js';
 import { getThumbnailFromId, getYoutubeIdFromUrl, shuffle } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
@@ -11,6 +11,11 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-roulette">
+                <div class="wrapper-theme">
+        <div class="theme-container">
+        <div class="ball" v-for="theme in themes" :key="theme.name" @click="changeTheme(theme.name)" :style="{ background: theme['color-on-background'], borderColor: theme['color-on-background-hover'] }"></div>
+        </div>
+        </div>
             <div class="sidebar">
                 <p class="type-label-md" style="color: #aaa">
                     Shameless copy of the Extreme Demon Roulette by <a href="https://matcool.github.io/extreme-demon-roulette/" target="_blank">matcool</a>.
@@ -28,7 +33,9 @@ export default {
                         <input type="checkbox" id="legacy" value="Legacy List" v-model="useLegacyList">
                         <label for="legacy">Legacy list</label>
                     </div>
+                    <div class="wrapper">
                     <Btn @click.native.prevent="onStart">{{ levels.length === 0 ? 'Start' : 'Restart'}}</Btn>
+                    </div>
                 </form>
                 <p class="type-label-md" style="color: #aaa">
                     The roulette saves automatically.
@@ -36,8 +43,13 @@ export default {
                 <form class="save">
                     <p>Manual Load/Save</p>
                     <div class="btns">
+                    <div class="wrapper">
                         <Btn @click.native.prevent="onImport">Import</Btn>
+                        
+                    </div>
+                    <div class="wrapper">
                         <Btn :disabled="!isActive" @click.native.prevent="onExport">Export</Btn>
+                        </div>
                     </div>
                 </form>
             </div>
@@ -67,9 +79,15 @@ export default {
                                 <p>{{ currentLevel.id }}</p>
                             </div>
                             <form class="actions" v-if="!givenUp">
+                                <div class="inputwrapper">
                                 <input type="number" v-model="percentage" :placeholder="placeholder" :min="currentPercentage + 1" max=100>
+                                </div>
+                                <div class="wrapper">
                                 <Btn @click.native.prevent="onDone">Done</Btn>
-                                <Btn @click.native.prevent="onGiveUp" style="background-color: #e91e63;">Give Up</Btn>
+                                </div>
+                                <div class="wrapper">
+                                <Btn @click.native.prevent="onGiveUp">Give Up</Btn>
+                                </div>
                             </form>
                         </div>
                         <!-- Results -->
@@ -77,7 +95,9 @@ export default {
                             <h1>Results</h1>
                             <p>Number of levels: {{ progression.length }}</p>
                             <p>Highest percent: {{ currentPercentage }}%</p>
+                            <div class="wrapper">
                             <Btn v-if="currentPercentage < 99 && !hasCompleted" @click.native.prevent="showRemaining = true">Show remaining levels</Btn>
+                            </div>
                         </div>
                         <!-- Remaining Levels -->
                         <template v-if="givenUp && showRemaining">
@@ -88,7 +108,7 @@ export default {
                                 <div class="meta">
                                     <p>#{{ level.rank }}</p>
                                     <h2>{{ level.name }}</h2>
-                                    <p style="color: #d50000; font-weight: 700">{{ currentPercentage + 2 + i }}%</p>
+                                    <p style="color: rgb(216,101,86); font-weight: 700">{{ currentPercentage + 2 + i }}%</p>
                                 </div>
                             </div>
                         </template>
@@ -107,6 +127,7 @@ export default {
     data: () => ({
         loading: false,
         levels: [],
+        themes: [],
         progression: [], // list of percentages completed
         percentage: undefined,
         givenUp: false,
@@ -124,6 +145,7 @@ export default {
         this.fileInput.multiple = false;
         this.fileInput.accept = '.json';
         this.fileInput.addEventListener('change', this.onImportUpload);
+        this.initialize();
 
         // Load progress from local storage
         const roulette = JSON.parse(localStorage.getItem('roulette'));
@@ -163,6 +185,15 @@ export default {
         shuffle,
         getThumbnailFromId,
         getYoutubeIdFromUrl,
+        async initialize() {
+            this.themes = await fetchThemes();
+        },        
+        changeTheme(themeName) {
+            const themeStyles = this.themes.find(t => t.name === themeName);
+            if (themeStyles) {
+                changeTheme(themeStyles);
+            }
+        },
         async onStart() {
             if (this.isActive) {
                 this.showToast('Give up before starting a new roulette.');

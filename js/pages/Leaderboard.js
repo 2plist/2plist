@@ -1,4 +1,4 @@
-import { fetchLeaderboard } from '../content.js';
+import { fetchLeaderboard, fetchThemes, changeTheme } from '../content.js';
 import { localize } from '../util.js';
 
 import Spinner from '../components/Spinner.js';
@@ -9,6 +9,7 @@ export default {
     },
     data: () => ({
         leaderboard: [],
+        themes: [],
         loading: true,
         selected: 0,
         err: [],
@@ -17,45 +18,46 @@ export default {
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
-        <main v-else class="page-leaderboard-container">
-            <div class="page-leaderboard">
-                <div class="error-container">
+        <main v-else class="page-leaderboard">
+        <div class="wrapper-theme">
+        <div class="theme-container">
+        <div class="ball" v-for="theme in themes" :key="theme.name" @click="changeTheme(theme.name)" :style="{ background: theme['color-on-background'], borderColor: theme['color-on-background-hover'] }"></div>
+        </div>
+        </div>
+                <div class="board-container">
+                <div  class="board-content">
                     <p class="error" v-if="err.length > 0">
                         Leaderboard may be incorrect, as the following levels could not be loaded: {{ err.join(', ') }}
                     </p>
-                </div>
-                <div class="board-container">
                     <table class="board">
-                        <tr v-for="(ientry, i) in leaderboard">
-                            <td class="rank">
+                        <tr v-for="(ientry, i) in leaderboard" :class="{ 'active': selected == i }">
+                        <div class="wrapper" @click="selected = i">
+                            <td class="user" :class="{ 'active': selected == i }">
                                 <p class="type-label-lg">#{{ i + 1 }}</p>
-                            </td>
-                            <td class="total">
+                                <span class="type-label-lg">{{ ientry.user }}</span>
                                 <p class="type-label-lg">{{ localize(ientry.total) }}</p>
                             </td>
-                            <td class="user" :class="{ 'active': selected == i }">
-                                <button @click="selected = i">
-                                    <span class="type-label-lg">{{ ientry.user }}</span>
-                                </button>
-                            </td>
+                        </div>
                         </tr>
                     </table>
+                    </div>
                 </div>
                 <div class="player-container">
+                <div class="player-content">
                     <div class="player">
-                        <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
-                        <h3>{{ entry.total }}</h3>
+                        <h1>#{{ selected + 1 }} {{ entry.user }} <h3 style="flex: 1; text-align: right;">{{ entry.total }}</h3></h1>
+                        <div class="divider"></div>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table v-if="entry.verified.length > 0" class="table">
                             <tr v-for="score in entry.verified">
                                 <td class="rank">
-                                    <p>#{{ score.rank }}</p>
+                                    <p class="type-label-lg">#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
                                     <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
-                                    <p>+{{ localize(score.score) }}</p>
+                                    <p class="type-label-lg">+{{ localize(score.score) }}</p>
                                 </td>
                             </tr>
                         </table>
@@ -63,13 +65,13 @@ export default {
                         <table v-if="entry.completed.length > 0" class="table">
                             <tr v-for="score in entry.completed">
                                 <td class="rank">
-                                    <p>#{{ score.rank }}</p>
+                                    <p class="type-label-lg">#{{ score.rank }}</p>
                                 </td>
                                 <td class="level">
                                     <a class="type-label-lg" target="_blank" :href="score.link">{{ score.level }}</a>
                                 </td>
                                 <td class="score">
-                                    <p>+{{ localize(score.score) }}</p>
+                                    <p class="type-label-lg">+{{ localize(score.score) }}</p>
                                 </td>
                             </tr>
                         </table>
@@ -99,12 +101,19 @@ export default {
     },
     async mounted() {
         const [leaderboard, err] = await fetchLeaderboard();
+        this.themes = await fetchThemes();
         this.leaderboard = leaderboard;
         this.err = err;
         // Hide loading spinner
         this.loading = false;
     },
     methods: {
+        changeTheme(themeName) {
+            const themeStyles = this.themes.find(t => t.name === themeName);
+            if (themeStyles) {
+                changeTheme(themeStyles);
+            }
+        },
         localize,
     },
 };
