@@ -169,7 +169,7 @@ export function changeTheme(themeStyles) {
                     document.getElementById('logo').src = themeStyles.logo;
                 }
                 else{
-                document.getElementById('logo').src = `/assets/themes/${themeStyles.logo}`;
+                document.getElementById('logo').src = `assets/themes/${themeStyles.logo}`;
                 }
             }
             if (themeStyles.discord) {
@@ -177,7 +177,7 @@ export function changeTheme(themeStyles) {
                     document.getElementById('discord').src = themeStyles.discord;
                 }
                 else{
-                document.getElementById('discord').src = `/assets/themes/${themeStyles.discord}`;
+                document.getElementById('discord').src = `assets/themes/${themeStyles.discord}`;
                 }
             }
             if (themeStyles.theme) {
@@ -185,7 +185,7 @@ export function changeTheme(themeStyles) {
                     document.getElementById('theme').src = themeStyles.theme;
                 }
                 else{
-                document.getElementById('theme').src = `/assets/themes/${themeStyles.theme}`;
+                document.getElementById('theme').src = `assets/themes/${themeStyles.theme}`;
                 }
             }
 
@@ -199,6 +199,7 @@ export function changeTheme(themeStyles) {
 export function secretTheme() {
     let secret = 'buhislife';
     let input = '';
+    let theme = localStorage.getItem('currentTheme');
     const wrapper = document.querySelector('.wrapper-theme:has(.theme-container)');
     document.addEventListener('keydown', (event) => {
         input += event.key;
@@ -206,12 +207,14 @@ export function secretTheme() {
             input = '';
         }
         if (input === secret) {
-            changeTheme({
-                "name": "Buh",
-        "logo": "https://cdn.7tv.app/emote/01H4945CB0000ESPTK3C1A5RVR/4x.avif",
-        "discord": "https://cdn.7tv.app/emote/01GZYJWZ6R000D81ZGQH0KPFRP/4x.avif",
-        "theme": "https://cdn.7tv.app/emote/01G61H421G0006Z5WTGWA7994Q/4x.avif"
-            });
+            if (theme){
+                theme = JSON.parse(theme);
+                theme.name = 'Buh';
+                theme.logo = 'https://cdn.7tv.app/emote/01H4945CB0000ESPTK3C1A5RVR/4x.avif';
+                theme.discord = 'https://cdn.7tv.app/emote/01GZYJWZ6R000D81ZGQH0KPFRP/4x.avif';
+                theme.theme = 'https://cdn.7tv.app/emote/01G61H421G0006Z5WTGWA7994Q/4x.avif';
+            changeTheme(theme);
+        }
         }
     });
 }
