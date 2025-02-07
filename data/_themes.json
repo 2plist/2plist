@@ -76,5 +76,23 @@
         "logo": "2p logo gold.png",
         "discord": "discord gold.png",
         "theme": "theme gold.png"
+    },
+    {
+        "name": "Dark",
+        "color-background": "rgb(19, 19, 19)",
+        "color-on-background": "rgb(255, 255, 255)",
+        "color-background-button": "rgb(0, 0, 0)",
+        "color-on-background-hover": "rgb(177, 177, 177)",
+        "color-error": "rgb(0, 255, 0)",
+        "color-on-error": "rgb(255, 255, 255)",
+        "color-section-background": "rgba(9, 9, 9, 0.99)",
+        "gradient-color-1-40": "rgba(53, 53, 53, 0.43)",
+        "gradient-color-2-40": "rgba(76, 76, 76, 0.76)",
+        "color-shadow": "rgba(0, 0, 0, 0.8)",
+        "scroll-bg-color": "rgb(9, 9, 9)",
+        "img-filter": "invert(50%) sepia(100%) saturate(0%) hue-rotate(325deg) brightness(190%) contrast(100%)",
+        "logo": "2p logo dark.png",
+        "discord": "discord dark.png",
+        "theme": "theme dark.png"
     }
 ]
