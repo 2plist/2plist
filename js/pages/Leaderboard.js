@@ -45,7 +45,7 @@ export default {
                 <div class="player-container">
                 <div class="player-content">
                     <div class="player">
-                        <h1>#{{ selected + 1 }} {{ entry.user }} <h3 style="flex: 1; text-align: right;">{{ entry.total }}</h3></h1>
+                        <h1>#{{ selected + 1 }} {{ entry.user }} <h3 style="flex: 1; text-align: right;">{{ entry.total }} points</h3></h1>
                         <div class="divider"></div>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table v-if="entry.verified.length > 0" class="table">

@@ -149,14 +149,11 @@ dt::after,
     display: table;
 }
 
-label,
-input[type="text"],
-input[type="number"],
-.type-label-lg {
+label, input[type="text"], input[type="number"], .type-label-lg {
     font-family: "Lexend Deca", sans-serif;
-    font-size: clamp(23px, 1.6vw, 30px) !important;
+    font-size: 20px;
     white-space: nowrap;
-    line-height: 20px;
+    line-height: 16px;
     font-weight: 500;
     -webkit-font-smoothing: subpixel-antialiased;
 }
@@ -243,7 +240,7 @@ p::after,
 
 .text-container h1 {
     display: block;
-    padding: 1rem;
+    font-size: 60px;
 }
 
 .gradient-text {
@@ -260,7 +257,7 @@ p::after,
     font-weight: 200;
 }
 .meta .type-label-lg.link {
-    font-size: 2rem !important;
+    font-size: 1.5rem !important;
     font-weight: 200;
 }
 .level h5 {
@@ -297,9 +294,6 @@ table.table, table.records {
     }
     .changelog li p {
         font-size: 12px;
-    }
-    .text-container h1{
-        font-size: 75px;
     }
     .meta .type-label-lg.link {
         font-size: 20px !important;

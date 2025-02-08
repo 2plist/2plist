@@ -30,7 +30,7 @@
     justify-content: center;
 }
 .page-home .meta .editors li img {
-    height: 2rem;
+    height: 1.5rem;
     filter: var(--img-filter);
 }
 .page-home .meta .editors li a:hover {

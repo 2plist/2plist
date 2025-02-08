@@ -82,12 +82,11 @@
 }
 
 .page-leaderboard .board tr .wrapper .user {
-    display: flex
-;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     gap: 1vw;
-    padding: 15px;
+    padding: 10px;
     text-align: center;
     border-radius: 15px;
     background: var(--color-background-button);
@@ -116,7 +115,6 @@
     max-height: 100%;
     padding-right: 1rem;
     overflow-y: auto;
-    scroll-snap-type: y mandatory;
 }
 .page-leaderboard .board-container .board-content .board {
     table-layout: auto;
