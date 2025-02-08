@@ -51,7 +51,7 @@ export default {
                     {{ level.name }} 
                      <div class="level-stats">
                     <img src="assets/unrated.png" title="Unrated" alt="unrated" v-if="level.unrated" style="height:3rem;">
-                    <p style="margin-left: auto;">{{ score(selected + 1, 100, level.percentToQualify) }} points</p>
+                    <h3 style="margin-left: auto;">{{ score(selected + 1, 100, level.percentToQualify) }} points</h3>
                     </div>
                     </h1>
                     <hr class="divider">
