@@ -2,15 +2,20 @@
     "id": "87397490",
     "name": "Pulse",
     "author": "Puueds",
-    "verifier": "Tuoyu",
+    "verifier": "Puueds",
     "desc": "Get your heart steady and your fingers ready for an operation of a lifetime! Get the replacement song on my YouTube!",
     "percentToQualify": "100",
     "handcam": 0,
     "hacked": false,
     "unrated": false,
-    "verificationVid": "https://youtu.be/K5j3iAMeXSo",
+    "verificationVid": "https://youtu.be/fs4xye21Gx4",
     "password": "145690",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/K5j3iAMeXSo",
+            "user": "Tuoyu"
+        },
         {
             "percent": "100",
             "link": "https://youtu.be/SJ6NlMQ0YhM?t=66",
