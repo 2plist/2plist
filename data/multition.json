@@ -23,7 +23,7 @@
         }, 
         {
             "percent": "100000",
-            "link": "https://www.youtube.com/watch?v=lGGSL-U4J7A",
+            "link": "https://youtu.be/lGGSL-U4J7A",
             "user": "John Nwaogu"
         },
         {
@@ -100,6 +100,11 @@
             "percent": "100",
             "link": "https://youtu.be/M5oYS8cSdHA",
             "user": "MagnificCub9216"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/_x6yj53EetY",
+            "user": "S1ngan1"
         }
     ]
 }
