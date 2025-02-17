@@ -581,10 +581,15 @@
             "link": "https://youtu.be/hK4j8jO5858",
             "user": "あおいあかり"
         },
-         {
+        {
             "percent": "100",
             "link": "https://youtu.be/YErDsnOfCeU",
             "user": "ButtertheCat"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=NRNwgttrwic",
+            "user": "ThisIsntSnoopy"
         }
     ]
 }
