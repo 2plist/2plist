@@ -433,15 +433,39 @@
     },
     {
         "date": "11-12-2022",
-        "text": "some levels moved around. idk im doing my best but i cant work with this changelog lmao"
+        "text": "**Hyper Dimension** has been raised from **#31** to **#29**, above **YOQUIERO** and below **Choleric**."
     },
     {
         "date": "11-12-2022",
-        "text": "**Colorful Corruption** and **Bang Gang** have swapped (again), with **Bang Gang** sitting on top at **#3**."
+        "text": "**Star Power** has been raised from **#28** to **#26**, above **Ebony** and below **10**."
     },
     {
         "date": "11-12-2022",
-        "text": "**Gentlemens Clique** has been placed at **#4**, above **Colorful Corruption** and below **Bang Gang**."
+        "text": "**10** has been raised from **#29** to **#25**, above **Ebony** and below **Horntail Cave**."
+    },
+    {
+        "date": "11-12-2022",
+        "text": "**Temple Profanators** has been raised from **#29** to **#22**, above **Absolute Meltdown** and below **Horntail Cave 2**."
+    },
+    {
+        "date": "11-12-2022",
+        "text": "**Halibut Cannon** and **Horntail Cave 2** have been swapped, with **Halibut Cannon** now sitting above at **#20**."
+    },
+    {
+        "date": "11-12-2022",
+        "text": "**Leviathan** has been placed at **#19**, above **Horntail Cave 2** and below **Flappy Dynamix II**."
+    },
+    {
+        "date": "11-12-2022",
+        "text": "**Flappy Dynamix II** and **Horntail Cave 2** have been swapped, with **Flappy Dynamix II** now sitting above at **#18**."
+    },
+    {
+        "date": "11-12-2022",
+        "text": "**HEX MASTER** has been raised from **#20** to **#17**, above **Horntail Cave 2** and below **Funkin**."
+    },
+    {
+        "date": "11-12-2022",
+        "text": "**Funkin** has been raised from **#20** to **#16**, above **Horntail Cave 2** and below **Cosmic Dolphin**."
     },
     {
         "date": "11-12-2022",
@@ -449,42 +473,122 @@
     },
     {
         "date": "11-12-2022",
-        "text": "**Leviathan** has been placed at **#19**, above **Halibut Cannon** and below **Flappy Dynamix II**."
+        "text": "**Gentlemens Clique** has been placed at **#4**, above **Colorful Corruption** and below **Bang Gang**."
     },
     {
-        "date": "20-09-2022",
-        "text": "**Multition** has been moved up to **#2**, between **Tenkai** and **Based Gang**."
+        "date": "11-12-2022",
+        "text": "**Bang Gang** and **Colorful Corruption** have been swapped, with **Bang Gang** now sitting above at **#3**."
     },
     {
-        "date": "09-06-2022",
-        "text": "**Tenkai has been placed at #1.**"
+        "date": "08-06-2022",
+        "text": "**Arre Toro** has been placed at **#35**, above **Claim Our Throne** and below **ARRE Robot    **."
     },
     {
-        "date": "09-06-2022",
-        "text": "**Bang Gang** and **Colorful Corruption** have been swapped, with **Colorful Corruption** now sitting above at **#3**."
+        "date": "08-06-2022",
+        "text": "**Invaders** has been placed at **#31**, above **Fracture Breaker** and below **Phosbat Cave**."
     },
     {
-        "date": "09-06-2022",
-        "text": "**Epic Multiplayer** has been placed at **#7**, between **Arcane16** and **Elite Z Rebirth**."
-    },
-    {
-        "date": "09-06-2022",
-        "text": "A**pocalypseAfterParty** has been lowered from **#7** to **#12**, below **Duelo Maestro** and above **Cosmic Dolphin**."
-    },
-    {
-        "date": "09-06-2022",
-        "text": "cosmic dolphin and temple profanators raised SOMEWHERE idk they didnt say.. ᗜ⤙ᗜ"
-    },
-    {
-        "date": "09-06-2022",
-        "text": "**YOQUIERO** has been placed at **#24**, above **10** and below **Star Power**."
-    },
-    {
-        "date": "09-06-2022",
+        "date": "08-06-2022",
         "text": "**Tiny Express** has been placed at **#29**, above **Phosbat Cave** and below **Hyper Dimension**."
     },
     {
         "date": "08-06-2022",
-        "text": "Placed **literally everything** at **literally every rank**."
+        "text": "**Temple Profanators** has been raised from **#28** to **#26**, above **Grabeyard** and below **10**."
+    },
+    {
+        "date": "08-06-2022",
+        "text": "**YOQUIERO** has been placed at **#24**, above **10** and below **Star Power**."
+    },
+    {
+        "date": "08-06-2022",
+        "text": "**Star Power** and **10"" have been swapped, with **Star Power** now sitting above at **#23**."
+    },
+    {
+        "date": "08-06-2022",
+        "text": "**HEX MASTER** and **Funkin"" have been swapped, with **HEX MASTER** now sitting above at **#17**."
+    },
+    {
+        "date": "08-06-2022",
+        "text": "**Flappy Dynamix II** and **Halibut Cannon"" have been swapped, with **Flappy Dynamix II** now sitting above at **#15**."
+    },
+    {
+        "date": "08-06-2022",
+        "text": "**Cosmic Dolphin** has been raised from **#16** to **#13**, above **Horntail Cave 2** and below **ApocalypseAfterParty**."
+    },
+    {
+        "date": "08-06-2022",
+        "text": "**ApocalypseAfterParty** has been lowered from **#9** to **#12**, above **Horntail Cave 2** and below **Duelo Maestro**."
+    },
+    {
+        "date": "08-06-2022",
+        "text": "**Epic Multiplayer** has been placed at **#5**, above **Multition** and below **Bang Gang**."
+    },
+    {
+        "date": "08-06-2022",
+        "text": "**Colorful Corruption** and **Bang Gang** have been swapped, with **Colorful Corruption** now sitting above at **#3**."
+    },
+    {
+        "date": "08-06-2022",
+        "text": "**Tenkai** has been placed at **#1** above **Based Gang**."
+    },
+    {
+        "date": "20-03-2022",
+        "text": "**Dragon Force** and **ARRE Robot"" have been swapped, with **Dragon Force** now sitting above at **#28**."
+    },
+    {
+        "date": "20-03-2022",
+        "text": "**Horntail Cave** and **Ebony"" have been swapped, with **Horntail Cave** now sitting above at **#18**."
+    },
+    {
+        "date": "20-03-2022",
+        "text": "**HEX MASTER** and **Absolute Meltdown"" have been swapped, with **HEX MASTER** now sitting above at **#16**."
+    },
+    {
+        "date": "20-03-2022",
+        "text": "**Flappy Dynamix II** has been lowered from **#10** to **#13**, above **Cosmic Dolphin** and below **Halibut Cannon**."
+    },
+    {
+        "date": "20-03-2022",
+        "text": "**ApocalypseAfterParty** has been lowered from **#5** to **#7**, above **CholeriX** and below **Elite Z Rebirth**."
+    },
+    {
+        "date": "11-03-2022",
+        "text": "**Dragon Force** and **Claim Our Throne"" have been swapped, with **Dragon Force** now sitting above at **#29**."
+    },
+    {
+        "date": "11-03-2022",
+        "text": "**Fracture Breaker** has been lowered from **#25** to **#27**, above **ARRE Robot** and below **Phosbat Cave**."
+    },
+    {
+        "date": "11-03-2022",
+        "text": "**Horntail Cave** and **Choleric"" have been swapped, with **Horntail Cave** now sitting above at **#19**."
+    },
+    {
+        "date": "11-03-2022",
+        "text": "**Funkin** and **Absolute Meltdown"" have been swapped, with **Funkin** now sitting above at **#15**."
+    },
+    {
+        "date": "11-03-2022",
+        "text": "**Duelo Maestro** has been raised from **#12** to **#11**, above **Horntail Cave 2** and below **Flappy Dynamix II**."
+    },
+    {
+        "date": "11-03-2022",
+        "text": "**Flappy Dynamix II** has been lowered from **#8** to **#10**, above **Horntail Cave 2** and below **Master Duel**."
+    },
+    {
+        "date": "11-03-2022",
+        "text": "**ApocalypseAfterParty** has been raised from **#7** to **#5**, above **Arcane16** and below **Multition**."
+    },
+    {
+        "date": "11-03-2022",
+        "text": "**Multition** has been raised from **#6** to **#4**, above **Arcane16** and below **Bang Gang**."
+    },
+    {
+        "date": "10-03-2022",
+        "text": "Rule Change; **Drop Box** and **Jeyzor Collab** have been removed from their respective spots of **#28** and **#29**."
+    },
+    {
+        "date": "09-03-2022",
+        "text": "**2 Player Levels List has been created**."
     }
 ]
