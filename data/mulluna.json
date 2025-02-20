@@ -78,8 +78,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=VSZ4kjD7JTU",
+            "link": "https://youtu.be/VSZ4kjD7JTU",
             "user": "vapidf"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/48l-iW3r0NQ",
+            "user": "Because_im_lulu"
         }
     ]
 }
