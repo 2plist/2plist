@@ -8,12 +8,17 @@
     "handcam": 2,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://youtu.be/7qtjqp9Rxzk?si=VeMGUB4N3NTOcQJy",
+    "verificationVid": "https://youtu.be/7qtjqp9Rxzk",
     "password": "april fools :)",
     "records": [
         {
+            "percent": "100",
+            "link": "https://youtu.be/sI6WRvdwg7s",
+            "user": "Magenta"
+        },
+        {
             "percent": "3",
-            "link": "https://www.youtube.com/watch?v=qWXlftHimFI",
+            "link": "https://youtu.be/qWXlftHimFI",
             "user": "derpyfaceddude"
         },
         {
