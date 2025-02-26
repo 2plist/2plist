@@ -168,8 +168,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/sZplRcEfo9c?t=5s",
+            "link": "https://youtu.be/sZplRcEfo9c",
             "user": "Arctic"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/ezYyuHUdV48",
+            "user": "evo_gd"
         }
     ]
 }
