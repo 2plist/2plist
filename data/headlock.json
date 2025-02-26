@@ -143,7 +143,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Y9Y2WFK7LiQ",
+            "link": "https://youtu.be/Y9Y2WFK7LiQ",
             "user": "Bledwinn12"
         },
         {
@@ -310,6 +310,11 @@
             "percent": "100",
             "link": "https://youtu.be/psra8R1xoMM",
             "user": "Conical"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/8Wf6WnNgTPQ",
+            "user": "Melted"
         }
     ]
 }
