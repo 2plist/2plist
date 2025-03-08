@@ -12,34 +12,39 @@
     "password": "Not Copyable",
     "records": [
         {
-					"percent": "100",
-					"link": "https://youtu.be/x_pyylsqfkI?t=69",
-					"user": "Rei"
+            "percent": "100",
+            "link": "https://youtu.be/x_pyylsqfkI?t=69",
+            "user": "Rei"
 		},
         {
-					"percent": "100",
-					"link": "https://youtu.be/GkbTvK9__6E",
-					"user": "tomm"
+            "percent": "100",
+            "link": "https://youtu.be/GkbTvK9__6E",
+            "user": "tomm"
 		},
         {
-					"percent": "100",
-					"link": "https://www.youtube.com/watch?v=XvlH9_uBCcQ",
-					"user": "Ryclix"
+            "percent": "100",
+            "link": "https://youtu.be/XvlH9_uBCcQ",
+            "user": "Ryclix"
 		},
         {
-                    "percent": "100",
-                    "link": "https://www.youtube.com/watch?v=jaQmIub89Tw",
-                    "user": "derpyfaceddude"
+            "percent": "100",
+            "link": "https://youtu.be/jaQmIub89Tw",
+            "user": "derpyfaceddude"
         },
         {
-                    "percent": "100",
-                    "link": "https://youtu.be/W5-ZdP20AmE?t=29",
-                    "user": "Ketchup"
+            "percent": "100",
+            "link": "https://youtu.be/W5-ZdP20AmE?t=29",
+            "user": "Ketchup"
         }, 
         {
-                    "percent": "100",
-                    "link": "https://www.youtube.com/watch?v=OrDSxQva3MQ",
-                    "user": "gBen"
+            "percent": "100",
+            "link": "https://youtu.be/OrDSxQva3MQ",
+            "user": "gBen"
+        }, 
+        {
+            "percent": "100",
+            "link": "https://youtu.be/fjdSjp2uBhM",
+            "user": "A05Polzar"
         }
     ]
 }
