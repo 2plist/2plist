@@ -11,10 +11,15 @@
     "verificationVid": "https://youtu.be/e6ZApJDjtHM",
     "password": "",
     "records": [
-            {
+        {
             "percent": "100",
-            "link": "https://youtu.be/Kmpa3Vlz9EA?si=3mztYIbJ6Y9dsD5T",
+            "link": "https://youtu.be/Kmpa3Vlz9EA",
             "user": "ty3544"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/h6z2N0HnEE0",
+            "user": "Neuron"
         }
     ]
 }
