@@ -498,8 +498,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/QYWZqz7mzHs?si=RPULLKaZnXIaL1UV",
+            "link": "https://youtu.be/QYWZqz7mzHs",
             "user": "Bruno345"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/362p1aoOHu4",
+            "user": "Ballzach"
         }
     ]
 }
