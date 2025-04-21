@@ -12,6 +12,11 @@
     "password": "Free To Copy",
     "records": [
         {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=dTnMi2RWCZE",
+            "user": "Whizkid05"
+        },
+        {
             "percent": "82",
             "link": "https://youtu.be/xeHATDdRPlU",
             "user": "Rei"
