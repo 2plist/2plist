@@ -8,8 +8,13 @@
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=ObMbth6zk8Y",
+    "verificationVid": "https://youtu.be/ObMbth6zk8Y",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/xV-tOFQOpgM?t=112",
+            "user": "ButtertheCat"
+        }
     ]
 }
