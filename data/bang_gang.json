@@ -157,6 +157,11 @@
             "user": "ButtertheCat"
         },
         {
+            "percent": "100",
+            "link": "https://youtu.be/w6UZRq6M8Ws",
+            "user": "Danieljgd"
+        },
+        {
             "percent": "88",
             "link": "https://youtu.be/Hf-Dsb43kck",
             "user": "Lloydubs"
@@ -185,11 +190,6 @@
             "percent": "59",
             "link": "https://youtu.be/z3npx7BS_kY",
             "user": "bloodevent"
-        },
-        {
-            "percent": "59",
-            "link": "https://youtu.be/jq5mRCjsQN0",
-            "user": "Danieljgd"
         }
     ]
 }
