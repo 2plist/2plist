@@ -8,7 +8,7 @@
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://www.youtube.com/watch?v=ZcbJVE-VwnI",
+    "verificationVid": "https://youtu.be/ZcbJVE-VwnI",
     "password": "Not Copyable",
     "records": [
         {
@@ -18,17 +18,17 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=r5_ydx0p0FY&t=66",
+            "link": "https://youtu.be/r5_ydx0p0FY?t=66",
             "user": "ATF"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=QJcN9HFcMms",
+            "link": "https://youtu.be/QJcN9HFcMms?t=122",
             "user": "Motor8"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=X8_GNkhnPQ4&t=15s",
+            "link": "https://youtu.be/X8_GNkhnPQ4?t=15",
             "user": "Rei"
         },
         {
@@ -38,12 +38,12 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Of9Er-u7bc8",
+            "link": "https://youtu.be/Of9Er-u7bc8",
             "user": "Ink"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=GIu-JQW88E0",
+            "link": "https://youtu.be/GIu-JQW88E0",
             "user": "gBen"
         },
         {
@@ -55,6 +55,11 @@
             "percent": "100",
             "link": "https://youtu.be/14LD4LGl4wc",
             "user": "Ketchup"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/h-vrat5Glls",
+            "user": "CasperDePidgey"
         }
     ]
 }
