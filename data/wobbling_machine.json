@@ -8,9 +8,13 @@
     "handcam": 2,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://youtu.be/RKX6VOsICOg?si=nlYQpy1uTF6m9tZz",
+    "verificationVid": "https://youtu.be/RKX6VOsICOg",
     "password": "",
     "records": [
-        
+        {
+            "percent": "74",
+            "link": "https://youtu.be/8-Sq1TDXNDo",
+            "user": "Danieljgd"
+        }
     ]
 }
