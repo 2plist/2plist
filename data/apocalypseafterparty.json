@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/ZCwgCuj8D54",
+            "user": "Ryclix"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/KN-j71q4IvQ",
             "user": "Zest"
         },
@@ -45,11 +50,6 @@
             "percent": "100",
             "link": "https://youtu.be/Q6maIbFJEcQ",
             "user": "conski"
-        },
-        {
-            "percent": "100",
-            "link": "https://youtu.be/ZCwgCuj8D54",
-            "user": "Ryclix"
         },
         {
             "percent": "100",
