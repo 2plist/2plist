@@ -133,8 +133,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=wE1YeOw0bjA",
+            "link": "https://youtu.be/wE1YeOw0bjA",
             "user": "GuitGuit"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/OxjjfyZqmjU",
+            "user": "MrTrixGD"
         }
     ]
 }
