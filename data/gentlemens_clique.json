@@ -106,14 +106,14 @@
             "user": "Blavox"
         },
         {
+        {
+            "percent": "100",
+            "link": "https://youtu.be/XTUOX_k9ewk",
+            "user": "vapidf"
+        },
             "percent": "99",
             "link": "https://youtu.be/STfUxUgzjuI?t=196",
             "user": "ATF"
-        },
-        {
-            "percent": "74",
-            "link": "https://youtu.be/ROB9vw4kVRI",
-            "user": "vapidf"
         }
     ]
 }
