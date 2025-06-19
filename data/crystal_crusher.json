@@ -8,18 +8,23 @@
     "handcam": 2,
     "hacked": false,
     "unrated": false,
-    "verificationVid": "https://www.youtube.com/watch?v=qirwgz-haVQ",
+    "verificationVid": "https://youtu.be/qirwgz-haVQ",
     "password": "Free To Copy",
     "records": [
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=6wKo6SURJRc",
+            "link": "https://youtu.be/6wKo6SURJRc",
             "user": "Draks_Loves_U"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Y55Pzo60-f8",
+            "link": "https://youtu.be/Y55Pzo60-f8",
             "user": "Whizkid05"
+        },
+        {
+            "percent": "50",
+            "link": "https://youtu.be/e6NN-Uac2us",
+            "user": "Danieljgd"
         }
     ]
 }
