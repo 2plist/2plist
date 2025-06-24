@@ -158,8 +158,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=_uongvU-EdI",
+            "link": "https://youtu.be/_uongvU-EdI",
             "user": "Ryclix"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/YIIbPZ1eOzo",
+            "user": "Saladishealthy"
         }
     ]
 }
