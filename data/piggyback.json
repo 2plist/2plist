@@ -178,8 +178,13 @@
 		},
         {
             "percent": "100",
-            "link": "https://youtu.be/1OZUdpPb9ns&t=614",
+            "link": "https://youtu.be/1OZUdpPb9ns?t=614",
             "user": "vapidf"
+		},
+        {
+            "percent": "100",
+            "link": "https://youtu.be/MKI8d_Xsihg",
+            "user": "Saladishealthy"
 		}
     ]
 }
