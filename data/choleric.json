@@ -153,8 +153,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/1OZUdpPb9ns&t=183",
+            "link": "https://youtu.be/1OZUdpPb9ns?t=183",
             "user": "vapidf"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/AuRVQ6Gqssw",
+            "user": "Sowun"
         }
     ]
 }
