@@ -713,8 +713,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=h901RxJueUk",
+            "link": "https://youtu.be/h901RxJueUk",
             "user": "fonkime"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/INkqMcBqCfc",
+            "user": "Jonete2"
         }
     ]
 }
