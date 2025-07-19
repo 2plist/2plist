@@ -1,8 +1,8 @@
 {
     "id": "91708917",
     "name": "See",
-    "author": "HiyaJemma",
-    "verifier": "HiyaJemma",
+    "author": "jemmathecube",
+    "verifier": "jemmathecube",
     "desc": "do you see what I see? well no",
     "percentToQualify": "100",
     "handcam": 0,
@@ -45,6 +45,11 @@
             "percent": "100",
             "link": "https://youtu.be/Xct-_LEYL-8",
             "user": "aonsey"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/-mnGZZT2Hn0?t=675",
+            "user": "Nsaynchkn"
         }
     ]
 }
