@@ -78,8 +78,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=J6WPIXuwcAw",
+            "link": "https://youtu.be/J6WPIXuwcAw",
             "user": "conski"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/wUZinyL1vew",
+            "user": "evo_gd"
         }
     ]
 }
