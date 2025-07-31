@@ -11,5 +11,10 @@
     "verificationVid": "https://youtu.be/MWYv6V2Pm4g",
     "password": "",
     "records": [
+        {
+			"percent": "100",
+			"link": "https://youtu.be/GqI4no11TiU",
+			"user": "conski"
+		}
     ]
 }
