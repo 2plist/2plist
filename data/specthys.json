@@ -11,5 +11,20 @@
     "verificationVid": "https://youtu.be/QEhqvQvEfNM",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=K-ZUxLbR1Xc",
+            "user": "mendel"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=OP9P3hGscOA",
+            "user": "GuitGuit"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/rzhtlaAEhy4",
+            "user": "nsaynchkn"
+        }
     ]
 }
