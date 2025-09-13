@@ -2,15 +2,20 @@
     "id": "71973309",
     "name": "Jerry",
     "author": "Interferent",
-    "verifier": "gBen",
+    "verifier": "Interferent",
     "desc": "Dedicated to everyone who ever mispelled my name and called me Jerry. Have fun!",
     "percentToQualify": "100",
     "handcam": 0,
     "hacked": false,
     "unrated": true,
-    "verificationVid": "https://youtu.be/rXegcAKQLx8",
+    "verificationVid": "https://youtu.be/V-cs7un7960",
     "password": "N/A",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/rXegcAKQLx8",
+            "user": "gBen"
+        },
         {
             "percent": "100",
             "link": "https://youtu.be/xIVwNBUqx2U",
