@@ -73,13 +73,18 @@
 		},
         {
 			"percent": "100",
-			"link": "https://www.youtube.com/watch?v=w9wPP0McflI",
+			"link": "https://youtu.be/w9wPP0McflI",
 			"user": "Danieljgd"
 		},
         {
 			"percent": "100",
 			"link": "https://youtu.be/s179mG_fKqE?t=151",
 			"user": "vapidf"
+		},
+        {
+			"percent": "100",
+			"link": "https://youtu.be/D9Bop2SrOec",
+			"user": "erzor"
 		}
     ]
 }
