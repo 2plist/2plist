@@ -143,8 +143,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=u_1SHlsRcy8",
+            "link": "https://youtu.be/u_1SHlsRcy8",
             "user": "tayon"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/lJdySfpdj38?t=1039",
+            "user": "conski"
         }
     ]
 }
