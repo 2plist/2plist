@@ -158,8 +158,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=dg_-ITAxxHs",
+            "link": "https://youtu.be/dg_-ITAxxHs",
             "user": "Appleisgud"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/lJdySfpdj38",
+            "user": "conski"
         }
     ]
 }
