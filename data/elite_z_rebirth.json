@@ -273,8 +273,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=a9tmm7XBi5U",
+            "link": "https://youtu.be/a9tmm7XBi5U",
             "user": "destr"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/avH7MUzSzJA",
+            "user": "Draks_Loves_U"
         }
     ]
 }
