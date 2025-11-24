@@ -83,18 +83,23 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/kb9n6JTlX0w&t=1821",
+            "link": "https://youtu.be/kb9n6JTlX0w?t=1821",
             "user": "MeowMasterer"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Ps7uO1xfTbs",
+            "link": "https://youtu.be/Ps7uO1xfTbs",
             "user": "Rilso"
         },
         {
             "percent": "100",
             "link": "https://youtu.be/G0RGs2z-qCQ",
             "user": "Geiser"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/i75FPTkdZjo",
+            "user": "F1nnie"
         }
     ]
 }
