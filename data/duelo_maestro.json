@@ -743,7 +743,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=T_L4cJcVHmU",
+            "link": "https://youtu.be/T_L4cJcVHmU",
             "user": "Fighter"
         },
         {
@@ -768,17 +768,17 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/81MY6bQAmb8?si=OZB0bBFskNWBV7af",
+            "link": "https://youtu.be/81MY6bQAmb8",
             "user": "Mlgmario13"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=sE_y7eQxCvU",
+            "link": "https://youtu.be/sE_y7eQxCvU",
             "user": "Gekura"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Ys7TJvxuDjs",
+            "link": "https://youtu.be/Ys7TJvxuDjs",
             "user": "maxidlo147"
         },
         {
@@ -798,12 +798,12 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=G-hwHxelmEc",
+            "link": "https://youtu.be/G-hwHxelmEc",
             "user": "lesho456"
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/XJ60mCgprbs?si=8CZA7qVaoaCoHCE-",
+            "link": "https://youtu.be/XJ60mCgprbs",
             "user": "Wave-Carried Nippleheim (zongk)"
         },
         {
@@ -833,8 +833,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=xMGH3C3GFao&t=27s",
+            "link": "https://youtu.be/xMGH3C3GFao?t=27",
             "user": "Neo"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/HQEt3OpDlGs",
+            "user": "TM™"
         }
     ]
 }
