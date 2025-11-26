@@ -163,13 +163,18 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Xig4Rcwhtzw",
+            "link": "https://youtu.be/Xig4Rcwhtzw",
             "user": "Travioli"
         },
         {
             "percent": "100",
             "link": "https://youtu.be/O_90art1gN0",
             "user": "LanLiangator"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/y3h-88NoHpY",
+            "user": "bananamanan"
         }
     ]
 }
