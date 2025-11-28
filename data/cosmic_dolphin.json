@@ -298,13 +298,18 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/BxpHQIJye-M?si=eIes3vbmP_1fMErg&t=88",
+            "link": "https://youtu.be/BxpHQIJye-M?t=88",
             "user": "Zekidash"
         },
         {
             "percent": "100",
             "link": "https://youtu.be/MM703kbN5Co",
             "user": "Saladishealthy"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/CDhQFR6zZ-g",
+            "user": "PaganGD"
         }
     ]
 }
