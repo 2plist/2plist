@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/1lM_H4mwxcg",
+            "user": "Ketchup"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/pda7oHtE9vY",
             "user": "Philbon"
         },
@@ -23,8 +28,8 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/1lM_H4mwxcg",
-            "user": "Ketchup"
+            "link": "https://youtu.be/QeHSPlWdSrY",
+            "user": "Omipious"
         }
     ]
 }
