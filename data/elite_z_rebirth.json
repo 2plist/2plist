@@ -233,7 +233,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=BHxQSkNVNAY",
+            "link": "https://youtu.be/BHxQSkNVNAY",
             "user": "LightBulb"
         },
         {
@@ -258,7 +258,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=Ze0wonhtzp0",
+            "link": "https://youtu.be/Ze0wonhtzp0",
             "user": "lowercasebeef"
         },
         {
@@ -285,6 +285,11 @@
             "percent": "100",
             "link": "https://youtu.be/Pxc0i-kjMZs",
             "user": "Kyle Cooley"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/G74RoJBAg38",
+            "user": "GGabriel333"
         }
     ]
 }
