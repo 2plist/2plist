@@ -183,8 +183,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=jqxFJZYeqq8",
+            "link": "https://youtu.be/jqxFJZYeqq8",
             "user": "Mango Cat"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/f_r-z3rSOUM",
+            "user": "Pulbo"
         }
     ]
 }
