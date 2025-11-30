@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/Bt2LRhgYWYk?t=85",
+            "user": "Nsaynchkn"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/1lM_H4mwxcg",
             "user": "Ketchup"
         },
@@ -43,18 +48,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=wky-QhOh51Y",
+            "link": "https://youtu.be/wky-QhOh51Y",
             "user": "Saladishealthy"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=K22JffvzTso&feature=youtu.be",
+            "link": "https://youtu.be/K22JffvzTso",
             "user": "Underground"
-        },
-        {
-            "percent": "100",
-            "link": "https://youtu.be/Bt2LRhgYWYk?si=v54WHHc0QE6BMWZZ&t=85",
-            "user": "Nsaynchkn"
         }
     ]
 }
