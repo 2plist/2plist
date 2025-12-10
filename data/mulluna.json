@@ -103,8 +103,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/ljd5B-YouOU?si=1odtPF13ly_Jc4TW",
+            "link": "https://youtu.be/ljd5B-YouOU",
             "user": "conski"
+        },
+        {
+            "percent": "97",
+            "link": "www.youtube.com/watch?v=GGzYoNI9qTo",
+            "user": "conski Jr."
         }
     ]
 }
