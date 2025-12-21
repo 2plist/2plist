@@ -538,7 +538,7 @@
         },
         {
             "percent": "100",
-            "link": "www.youtube.com/watch?v=_1sthXMbavc",
+            "link": "https://youtu.be/_1sthXMbavc",
             "user": "Muffy450"
         },
         {
@@ -548,7 +548,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=xcKgX9sigOU&lc=UgwekZDTpg1KRe_vPXB4AaABAg.AO9zkTcVm07AOA-yAhYJbB",
+            "link": "https://youtu.be/xcKgX9sigOU",
             "user": "Vegardo"
         },
         {
@@ -568,8 +568,13 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=9aj-SjzwLf0",
+            "link": "https://youtu.be/9aj-SjzwLf0",
             "user": "Sedna"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/l-i2OWwTHVM",
+            "user": "Kyle Cooley"
         }
     ]
 }
