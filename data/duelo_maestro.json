@@ -258,6 +258,11 @@
         },
         {
             "percent": "100",
+            "link": "https://youtu.be/Nm4UfXYQCKg",
+            "user": "zGamerdude"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/Ghk89ZP6Egg",
             "user": "Th13teen"
         },
@@ -729,7 +734,7 @@
         {
             "percent": "100",
             "link": "https://youtu.be/WtZy5Juy_BI",
-            "user": "Kyle Cooley"
+            "user": "7"
         },
         {
             "percent": "100",
@@ -860,11 +865,6 @@
             "percent": "100",
             "link": "https://youtu.be/mr99YuTunpA",
             "user": "SharpyS"
-        },
-        {
-            "percent": "100",
-            "link": "https://youtu.be/Nm4UfXYQCKg?si=KMi-dFfyscrVzHSA",
-            "user": "zGamerdude"
         }
     ]
 }
