@@ -78,11 +78,6 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/oJaHuzL37Hc",
-            "user": "Zeronium"
-        },
-        {
-            "percent": "100",
             "link": "https://youtu.be/TdrwZmuDs9Y",
             "user": "Lia"
         },
@@ -95,6 +90,16 @@
             "percent": "100",
             "link": "https://youtu.be/qSlKjVFnLwc",
             "user": "Th13teen"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/oJaHuzL37Hc",
+            "user": "Zeronium"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/dQ6V0mK-5M0",
+            "user": "zGamerdude"
         },
         {
             "percent": "100",
@@ -284,7 +289,7 @@
         {
             "percent": "100",
             "link": "https://youtu.be/Pxc0i-kjMZs",
-            "user": "Kyle Cooley"
+            "user": "7"
         },
         {
             "percent": "100",
@@ -300,11 +305,6 @@
             "percent": "100",
             "link": "https://youtu.be/PiwGmKewuOU",
             "user": "Mapless"
-        },
-        {
-            "percent": "100",
-            "link": "https://youtu.be/dQ6V0mK-5M0?si=O4q3aPjLlfhbhMnO",
-            "user": "zGamerdude"
         }
     ]
 }
