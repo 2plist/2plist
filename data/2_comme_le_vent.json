@@ -11,5 +11,15 @@
     "verificationVid": "https://youtu.be/P7tLT3QEHw4",
     "password": "",
     "records": [
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=ijXf_SAk-ss",
+            "user": "MyntiFresh"
+        },
+        {
+            "percent": "100",
+            "link": "https://www.youtube.com/watch?v=PR6uY2H2zz0",
+            "user": "GuitGuit"
+        }
     ]
 }
