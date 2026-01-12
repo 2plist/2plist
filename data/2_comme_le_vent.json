@@ -13,13 +13,18 @@
     "records": [
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=ijXf_SAk-ss",
+            "link": "https://youtu.be/ijXf_SAk-ss",
             "user": "MyntiFresh"
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=PR6uY2H2zz0",
+            "link": "https://youtu.be/PR6uY2H2zz0",
             "user": "GuitGuit"
+        },
+        {
+            "percent": "75",
+            "link": "https://youtu.be/0AgYSHfo58o",
+            "user": "Because_im_lulu"
         }
     ]
 }
