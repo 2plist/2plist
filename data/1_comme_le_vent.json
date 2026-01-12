@@ -18,17 +18,17 @@
 		},
         {
 			"percent": "100",
-			"link": "https://www.youtube.com/watch?v=JpiglSOCgWg&t=54",
+			"link": "https://youtu.be/JpiglSOCgWg?t=54",
 			"user": "aonsey"
 		},
         {
 			"percent": "100",
-			"link": "https://www.youtube.com/watch?v=4c7QdgLqLjk",
+			"link": "https://youtu.be/4c7QdgLqLjk",
 			"user": "Graydient"
 		},
         {
 			"percent": "100",
-			"link": "https://www.youtube.com/watch?v=ybJKAU997Hs",
+			"link": "https://youtu.be/ybJKAU997Hs",
 			"user": "conski"
 		},
         {
@@ -48,8 +48,13 @@
 		},
         {
 			"percent": "100",
-			"link": "https://youtu.be/-Wd6307c2mY?si=EVINIeUTb5iZTsAY",
+			"link": "https://youtu.be/-Wd6307c2mY",
 			"user": "Neuron"
+		},
+        {
+			"percent": "100",
+			"link": "https://youtu.be/dt2d4bSQqDw",
+			"user": "Because_im_lulu"
 		}
     ]
 }
