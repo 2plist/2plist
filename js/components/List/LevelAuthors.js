@@ -11,7 +11,7 @@ export default {
     },
     template: `
         <div class="level-authors">
-            <div class="type-title-sm">Author</div>
+            <div class="type-title-sm">Author(s)</div>
             <p class="type-body">
                 <span>{{ author }}</span>
             </p>
