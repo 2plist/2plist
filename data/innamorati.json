@@ -103,8 +103,13 @@
         },
         {
             "percent": "100",
-            "link": "https://youtu.be/o6UhP2QENQg?si=ft7N3wNwF-bVlxP0",
+            "link": "https://youtu.be/o6UhP2QENQg",
             "user": "Zekidash"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/x1lxnnVS3eg",
+            "user": "Keslas"
         }
     ]
 }
