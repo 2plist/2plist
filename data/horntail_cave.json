@@ -333,7 +333,7 @@
         },
         {
             "percent": "100",
-            "link": "https://www.youtube.com/watch?v=vxduw2DDK94",
+            "link": "https://youtu.be/vxduw2DDK94",
             "user": "rqd"
         },
         {
@@ -575,6 +575,11 @@
             "percent": "100",
             "link": "https://youtu.be/l-i2OWwTHVM",
             "user": "7"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/T76h4s8t_qI",
+            "user": "Neuronfish"
         }
     ]
 }
