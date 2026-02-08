@@ -13,6 +13,11 @@
     "records": [
         {
             "percent": "100",
+            "link": "https://youtu.be/Krqz_kiDY2U",
+            "user": "Vin24Sev"
+        },
+        {
+            "percent": "100",
             "link": "https://youtu.be/QXFYSlnj64k",
             "user": "Ketchup"
         },
@@ -25,6 +30,11 @@
             "percent": "100",
             "link": "https://youtu.be/TTMFfhvIU-A",
             "user": "Neuronfish"
+        },
+        {
+            "percent": "100",
+            "link": "https://youtu.be/S8ViQMVoZAk",
+            "user": "CasperDePidgey"
         }
     ]
 }
