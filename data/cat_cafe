@@ -1,0 +1,20 @@
+{
+    "id": "143317762",
+    "name": "Cat Cafe",
+    "author": "Rykoh1",
+    "verifier": "Ketchup",
+    "desc": "made by Rykoh1, verified by me. dedicated to the 2-player community. meow :3",
+    "percentToQualify": "100",
+    "handcam": 0,
+    "hacked": false,
+    "unrated": true,
+    "verificationVid": "https://youtu.be/lfGWdN-FOj4",
+    "password": "",
+    "records": [
+        {
+            "percent": "100",
+            "link": "https://youtu.be/GloAGrmnOAc",
+            "user": "CasperDePidgey"
+        }
+    ]
+}
