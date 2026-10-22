@@ -11,6 +11,11 @@
     },
     {
         "role": "admin",
+        "name": "erzor",
+        "link": "https://www.youtube.com/channel/UCZO3TzdzwGAoRYmPmZ39dIA"
+    },
+    {
+        "role": "helper",
         "name": "Graydient7",
         "link": "https://www.youtube.com/channel/UCUfKLS6nwu1wRWFIpzUIOKQ"
     },
@@ -18,11 +23,6 @@
         "role": "helper",
         "name": "ATF",
         "link": "https://www.youtube.com/channel/UCwBU8ulosh1IyNHoaLWdrwg"
-    },
-    {
-        "role": "helper",
-        "name": "erzor",
-        "link": "https://www.youtube.com/channel/UCZO3TzdzwGAoRYmPmZ39dIA"
     },
     {
         "role": "helper",
@@ -43,6 +43,21 @@
         "role": "helper",
         "name": "Nsaynchkn",
         "link": "https://www.youtube.com/channel/UCgZzlAodmq85uEMeTBAyTrg"
+    },
+    {
+        "role": "helper",
+        "name": "Underground",
+        "link": "https://www.youtube.com/channel/UCo_NAxLhXAiYz9TZzw-fYjg"
+    },
+    {
+        "role": "helper",
+        "name": "ty3544",
+        "link": "https://www.youtube.com/channel/UCgvJkDK9XC26-ogG4SkAUhQ"
+    },
+    {
+        "role": "helper",
+        "name": "HazelSZL",
+        "link": "https://www.youtube.com/channel/UCqYHAcjwsZdFB7sb4Bpuqgw"
     },
     {
         "role": "dev",
