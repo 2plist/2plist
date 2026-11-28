@@ -11,15 +11,15 @@
     "verificationVid": "https://www.youtube.com/watch?v=XFdXfCAW1cM",
     "password": "",
     "records": [
-      {
-        "percent": "100",
-        "link": "https://youtu.be/0oDnpy_En5Y",
-        "user": "Ketchup"
-      },
-      {
-        "percent": "100",
-        "link": "https://youtu.be/ro6Fp3T4C8I",
-        "user": "Because_im_lulu"
-      }
+        {
+          "percent": "100",
+          "link": "https://youtu.be/0oDnpy_En5Y",
+          "user": "Ketchup"
+        },
+        {
+          "percent": "100",
+          "link": "https://youtu.be/ro6Fp3T4C8I",
+          "user": "Because_im_lulu"
+        }
     ]
 }
